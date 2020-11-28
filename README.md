@@ -1,6 +1,12 @@
 # trace-ark-trades
 
-This project records all purchases and sales made by ARK Invest from 11/12/2019 to the present and utilizes pine script to visualize these trades in TradingView. It includes trade records of 251 stocks. Through analyzing these trades, I think it's a good beginning to explore how ARK invests and builds your own investing system.
+This project records all purchases and sales made by [ARK Invest](https://ark-invest.com/) from 11/12/2019 to the present and utilizes [Pine script](https://www.tradingview.com/pine-script-docs/en/v4/index.html) to visualize these trades in [TradingView](https://www.tradingview.com). It includes trade records of 251 stocks. Through analyzing these trades, I think it's a good beginning to explore how ARK invests and builds your own investing system.
+
+## Data sources
+
+I [downloaded]((https://ark-invest.com/wp-content/trades/ARK_Trades.pdf)) trade data from 11/12/2019 - 11/11/2020.
+ From 11/12/2020 to the present, I collected the trade records via subscribing to ARK's trade notifications. 
+ You can subscribe to the services from [here](https://ark-funds.com/subscribe). ARK will email its trading log to you daily.
 
 ## Instructions
 
@@ -24,6 +30,10 @@ I will use Tesla Inc (TSLA) as an example to show how to use this project.
 - Paste the script in the Pine Editor section and add to the chart
   
   ![paste-the-script](./images/paste-script.png)
+
+## Other resources
+
+[ARK Invest Active ETF Holdings Tracker](https://www.arktrack.com/)
 
 ## Thank you
 

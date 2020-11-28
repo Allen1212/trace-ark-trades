@@ -1,0 +1,4 @@
+//@version=4
+study("HON-tracker", overlay=true)
+if time > 1604293200000 and time < 1604379600000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

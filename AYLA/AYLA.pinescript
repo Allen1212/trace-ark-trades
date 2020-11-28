@@ -1,0 +1,4 @@
+//@version=4
+study("AYLA-tracker", overlay=true)
+if time > 1603684800000 and time < 1603771200000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

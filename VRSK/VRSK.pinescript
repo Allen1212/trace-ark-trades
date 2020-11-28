@@ -1,0 +1,4 @@
+//@version=4
+study("VRSK-tracker", overlay=true)
+if time > 1595390400000 and time < 1595476800000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

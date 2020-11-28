@@ -1,0 +1,10 @@
+//@version=4
+study("HDB-tracker", overlay=true)
+if time > 1605502800000 and time < 1605589200000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
+if time > 1599624000000 and time < 1599710400000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
+if time > 1584936000000 and time < 1585022400000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
+if time > 1580706000000 and time < 1580792400000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

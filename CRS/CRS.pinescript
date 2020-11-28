@@ -1,0 +1,4 @@
+//@version=4
+study("CRS-tracker", overlay=true)
+if time > 1579237200000 and time < 1579323600000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

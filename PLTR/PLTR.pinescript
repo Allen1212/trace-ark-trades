@@ -1,0 +1,8 @@
+//@version=4
+study("PLTR-tracker", overlay=true)
+if time > 1605243600000 and time < 1605330000000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
+if time > 1603339200000 and time < 1603425600000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
+if time > 1602734400000 and time < 1602820800000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

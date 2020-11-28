@@ -1,0 +1,8 @@
+//@version=4
+study("TRU-tracker", overlay=true)
+if time > 1597636800000 and time < 1597723200000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
+if time > 1594008000000 and time < 1594094400000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
+if time > 1577163600000 and time < 1577250000000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)

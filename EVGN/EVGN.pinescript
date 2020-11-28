@@ -1,0 +1,4 @@
+//@version=4
+study("EVGN-tracker", overlay=true)
+if time > 1599019200000 and time < 1599105600000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

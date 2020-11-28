@@ -1,0 +1,6 @@
+//@version=4
+study("NDAQ-tracker", overlay=true)
+if time > 1578891600000 and time < 1578978000000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
+if time > 1577077200000 and time < 1577163600000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)

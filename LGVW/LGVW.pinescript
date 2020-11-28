@@ -1,0 +1,4 @@
+//@version=4
+study("LGVW-tracker", overlay=true)
+if time > 1606107600000 and time < 1606194000000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

@@ -1,0 +1,8 @@
+//@version=4
+study("ISRG-tracker", overlay=true)
+if time > 1599537600000 and time < 1599624000000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
+if time > 1587355200000 and time < 1587441600000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
+if time > 1584936000000 and time < 1585022400000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

@@ -1,0 +1,8 @@
+//@version=4
+study("6060HK-tracker", overlay=true)
+if time > 1603166400000 and time < 1603252800000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
+if time > 1599710400000 and time < 1599796800000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
+if time > 1592539200000 and time < 1592625600000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

@@ -1,0 +1,6 @@
+//@version=4
+study("DANE-tracker", overlay=true)
+if time > 1579669200000 and time < 1579755600000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
+if time > 1579150800000 and time < 1579237200000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

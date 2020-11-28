@@ -1,0 +1,4 @@
+//@version=4
+study("SNOW-tracker", overlay=true)
+if time > 1600228800000 and time < 1600315200000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

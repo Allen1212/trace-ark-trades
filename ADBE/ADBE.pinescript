@@ -1,0 +1,6 @@
+//@version=4
+study("ADBE-tracker", overlay=true)
+if time > 1595217600000 and time < 1595304000000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
+if time > 1575262800000 and time < 1575349200000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)

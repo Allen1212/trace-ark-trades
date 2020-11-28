@@ -1,0 +1,6 @@
+//@version=4
+study("3938JP-tracker", overlay=true)
+if time > 1576040400000 and time < 1576126800000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
+if time > 1574226000000 and time < 1574312400000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)

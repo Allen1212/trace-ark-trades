@@ -1,0 +1,4 @@
+//@version=4
+study("TMO-tracker", overlay=true)
+if time > 1602648000000 and time < 1602734400000
+    label.new(time, close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

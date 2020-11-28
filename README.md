@@ -5,9 +5,9 @@ Through analyzing these trades, I think it's an excellent beginning to investiga
 
 ## Data sources
 
-I [downloaded]((https://ark-invest.com/wp-content/trades/ARK_Trades.pdf)) trade data from 11/12/2019 - 11/11/2020.
- From 11/12/2020 to the present, I collected the trade records via subscribing to ARK's trade notifications. 
- You can subscribe to the services from [here](https://ark-funds.com/subscribe). ARK will email its trading log to you daily.
+I downloaded trade data from 11/12/2019 - 11/11/2020 from [here](https://ark-invest.com/wp-content/trades/ARK_Trades.pdf). 
+From 11/12/2020 to the present, I collected the trade records via subscribing to ARK's trade notifications. 
+You can subscribe to the services from [here](https://ark-funds.com/subscribe). ARK will email its trading log to you daily.
 
 ## Instructions
 

@@ -34,7 +34,9 @@ I will use Tesla Inc (TSLA) as an example to show how to use this project.
 
 ## Other resources
 
-[ARK Invest Active ETF Holdings Tracker](https://www.arktrack.com/)
+- [ARK Invest Active ETF Holdings Tracker](https://www.arktrack.com/)
+
+- [Cheaper Than Guru](https://cheaperthanguru.com/)
 
 ## Thank you
 

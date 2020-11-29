@@ -20,7 +20,7 @@ I will use Tesla Inc (TSLA) as an example to show how to use this project.
   
   ![type-the-ticker](./images/type-ticker.png)
 
-- Move to full-featured chart
+- Move to the full-featured chart
   
   ![Access-full-featured-chart](./images/access-full-featured-chart.png)
 
@@ -30,7 +30,7 @@ I will use Tesla Inc (TSLA) as an example to show how to use this project.
 
 - Paste the script in the Pine Editor section and add to the chart
   
-  ![paste-the-script](./images/paste-script.png)
+  ![paste-the-script](./images/ark-invest-tsla.png)
 
 ## Other resources
 

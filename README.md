@@ -31,7 +31,27 @@ I will use Tesla Inc (TSLA) as an example to show how to use this project.
 - Paste the script in the Pine Editor section and add to the chart
   
   ![paste-the-script](./images/ark-invest-tsla.png)
+ 
+## Tips
 
+There are some tips to help you to analyze your stocks.
+
+- Use tools provided by TradingView (Using Trend Line as an example)
+
+    ![tools](./images/tools.png)
+ 
+- Add technical indicators (Using MACD as an example)
+
+    ![add_indicator](./images/add_indicator.png)
+    
+    ![macd](./images/macd.png)
+    
+- Add source code of technical indicators to my script (Using Bollinger Bands as an example)
+
+    ![indicator_source_code](./images/indicator_source_code.png)
+
+    ![add_indicator_code](./images/add_indicator_code.png)
+    
 ## Other resources
 
 - [ARK Invest Active ETF Holdings Tracker](https://www.arktrack.com/)

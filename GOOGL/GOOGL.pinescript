@@ -1,0 +1,3 @@
+//@version=4
+study("GOOGL-tracker", overlay=true)
+label.new(timestamp(2020, 11, 30, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

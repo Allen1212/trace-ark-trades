@@ -8,4 +8,3 @@ label.new(timestamp(2020, 6, 30, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.b
 label.new(timestamp(2020, 6, 22, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
 label.new(timestamp(2020, 6, 15, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
 label.new(timestamp(2020, 6, 11, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
-label.new(timestamp(2020, 6, 11, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

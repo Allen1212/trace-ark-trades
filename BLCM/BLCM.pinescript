@@ -2,7 +2,6 @@
 study("BLCM-tracker", overlay=true)
 label.new(timestamp(2020, 7, 20, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
 label.new(timestamp(2020, 1, 9, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
-label.new(timestamp(2020, 1, 9, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
 label.new(timestamp(2020, 1, 8, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
 label.new(timestamp(2020, 1, 7, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
 label.new(timestamp(2020, 1, 6, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)

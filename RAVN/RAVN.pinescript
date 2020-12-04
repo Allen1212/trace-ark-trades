@@ -5,5 +5,4 @@ label.new(timestamp(2020, 12, 1, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.b
 label.new(timestamp(2020, 11, 30, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
 label.new(timestamp(2020, 10, 14, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
 label.new(timestamp(2020, 10, 13, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
-label.new(timestamp(2020, 10, 13, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
 label.new(timestamp(2020, 10, 12, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

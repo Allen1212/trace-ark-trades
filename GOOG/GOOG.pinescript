@@ -11,7 +11,6 @@ label.new(timestamp(2020, 6, 30, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.b
 label.new(timestamp(2020, 6, 29, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
 label.new(timestamp(2020, 5, 18, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
 label.new(timestamp(2020, 2, 27, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
-label.new(timestamp(2020, 2, 27, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
 label.new(timestamp(2020, 2, 4, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
 label.new(timestamp(2020, 2, 3, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
 label.new(timestamp(2019, 12, 30, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

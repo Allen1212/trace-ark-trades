@@ -5,8 +5,6 @@ label.new(timestamp(2020, 2, 13, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.a
 label.new(timestamp(2020, 2, 11, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
 label.new(timestamp(2020, 2, 10, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
 label.new(timestamp(2020, 1, 24, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
-label.new(timestamp(2020, 1, 24, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
-label.new(timestamp(2020, 1, 24, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
 label.new(timestamp(2020, 1, 23, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
 label.new(timestamp(2020, 1, 14, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
 label.new(timestamp(2020, 1, 13, 09, 30), close, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)

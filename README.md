@@ -60,6 +60,15 @@ There are some tips to help you to analyze your stocks.
 
 - [Cheaper Than Guru](https://cheaperthanguru.com/)
 
+## Disclaimer 
+
+This project is for educational and entertainment purposes only. 
+The information herein may be inaccurate or outdated. 
+It is your responsibility to verify all information.
+Your investments are solely your own responsibility.
+It is very important for you to conduct your own research or consult a financial adviser before you make any investment decisions.
+The author accepts no responsibility for buying or selling decisions made using the information provided by this repository.
+ 
 ## Thank you
 
 I got inspired by a video made by this [Youtuber](https://youtu.be/DfSRNcCbEpA). I follow his idea to finish this project. He did lots of awesome videos to analyze the company's finances and introduce math knowledge behind the stock indicator. If you'd like to learn how to invest, I strongly recommend you to subscribe to his youtube channel.

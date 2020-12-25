@@ -1,5 +1,6 @@
 //@version=4
 study("TCEHY-tracker", overlay=true)
+label.new(timestamp(2020, 12, 24), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
 label.new(timestamp(2020, 12, 2), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
 label.new(timestamp(2020, 11, 16), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
 label.new(timestamp(2020, 11, 6), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

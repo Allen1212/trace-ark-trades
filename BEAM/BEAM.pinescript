@@ -1,5 +1,6 @@
 //@version=4
 study("BEAM-tracker", overlay=true)
+label.new(timestamp(2020, 12, 24), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
 label.new(timestamp(2020, 10, 7), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
 label.new(timestamp(2020, 10, 6), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
 label.new(timestamp(2020, 10, 5), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

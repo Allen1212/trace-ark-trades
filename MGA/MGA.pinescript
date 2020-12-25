@@ -1,0 +1,3 @@
+//@version=4
+study("MGA-tracker", overlay=true)
+label.new(timestamp(2020, 12, 24), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)

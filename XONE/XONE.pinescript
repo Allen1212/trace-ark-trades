@@ -1,5 +1,6 @@
 //@version=4
 study("XONE-tracker", overlay=true, max_labels_count=100)
+label.new(timestamp(2020, 12, 24), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
 label.new(timestamp(2020, 12, 23), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
 label.new(timestamp(2020, 12, 22), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
 label.new(timestamp(2020, 12, 21), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)

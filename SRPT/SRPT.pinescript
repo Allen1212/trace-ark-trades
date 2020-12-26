@@ -1,4 +1,9 @@
 //@version=4
-study("SRPT-tracker", overlay=true)
-label.new(timestamp(2020, 12, 11), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
-label.new(timestamp(2020, 12, 10), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
+study("SRPT-tracker", overlay=true, max_labels_count=100)
+etf_type = input("ALL", title="ETF", options=["ARKG","ALL"])
+if etf_type == "ALL"
+    label.new(timestamp(2020, 12, 10), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 12, 11), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+if etf_type == "ARKG"
+    label.new(timestamp(2020, 12, 10), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 7,321\n % of ETF: 0.0205", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 12, 11), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 169,932\n % of ETF: 0.4934", style=label.style_labelup, color=color.green)

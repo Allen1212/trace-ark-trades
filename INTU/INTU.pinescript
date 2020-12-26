@@ -1,7 +1,11 @@
 //@version=4
-study("INTU-tracker", overlay=true)
-label.new(timestamp(2020, 10, 12), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
-label.new(timestamp(2020, 9, 9), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
-label.new(timestamp(2020, 4, 27), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
-label.new(timestamp(2020, 4, 20), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
-label.new(timestamp(2019, 12, 9), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
+study("INTU-tracker", overlay=true, max_labels_count=100)
+etf_type = input("ALL", title="ETF", options=["ARKF","ALL"])
+if etf_type == "ALL"
+    label.new(timestamp(2019, 12, 9), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2020, 4, 20), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2020, 4, 27), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2020, 9, 9), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 10, 12), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+if etf_type == "ARKF"
+    label.new(timestamp(2020, 10, 12), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 13,741\n % of ETF: 0.6", style=label.style_labelup, color=color.green)

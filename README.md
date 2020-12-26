@@ -1,17 +1,39 @@
 # trace-ark-trades
 
 This project records all purchases and sales made by [ARK Invest](https://ark-invest.com/) from 11/12/2019 to the present and utilizes [Pine script](https://www.tradingview.com/pine-script-docs/en/v4/index.html) to visualize these trades in [TradingView](https://www.tradingview.com). 
-It includes trade records of 260 stocks. 
+It includes trade records of 256 stocks. 
 Through analyzing these trades, I think it's an excellent beginning to investigate how ARK invests and build your own investing system. 
 BTW, you can combine some charting tools, technical indicators, and my scripts to analyze your stocks in TradingView.
 
-## Data sources
+## :star2: New features
 
-I downloaded trade data from 11/12/2019 - 11/11/2020 from [here](https://ark-invest.com/wp-content/trades/ARK_Trades.pdf). 
-From 11/12/2020 to the present, I collected the trade records via subscribing to ARK's trade notifications. 
+- Count how many Ark ETFs sold/bought your stock on the same day 
+
+    ![tsla](./images/tsla.png)
+    
+    For example, ARKW and ARKQ sold TSLA on 12/3/2020. We mark "×2" on the label of 12/3/2020.
+    
+- View the trading records of each ETF on your stock
+
+    - Click the **Settings** in indicator legend
+
+        ![setting](./images/setting.png)
+    
+    - Choose an ETF which your stock belong to
+    
+        ![change_inputs](./images/change_inputs.png)
+    
+    - Check the Sell/Buy information (share volume and percentage of ETF of Sell/Buy)
+    
+        ![etf](./images/etf.png)
+
+## :page_with_curl: Data sources
+
+I get trade data from 11/12/2019 - 9/24/2020 in this [pdf](https://ark-invest.com/wp-content/trades/ARK_Trades.pdf). 
+From 9/25/2020 to the present, I collected the trade records via subscribing to ARK's trade notifications. 
 You can subscribe to the services from [here](https://ark-funds.com/subscribe). ARK will email its trading log to you daily.
 
-## Instructions
+## :memo: Instructions
 
 I will use Tesla Inc (TSLA) as an example to show how to use this project.
 
@@ -26,7 +48,7 @@ I will use Tesla Inc (TSLA) as an example to show how to use this project.
   
   ![Access-full-featured-chart](./images/access-full-featured-chart.png)
 
-- Find the ticker's folder and copy the script from the .pinescript file
+- Find the ticker's folder (Ctrl+F) and copy the script from the .pinescript file
   
   ![copy-the-script](./images/copy-script.png)
 
@@ -34,7 +56,7 @@ I will use Tesla Inc (TSLA) as an example to show how to use this project.
   
   ![paste-the-script](./images/ark-invest-tsla.png)
  
-## Tips
+## :bulb: Tips
 
 There are some tips to help you to analyze your stocks.
 
@@ -54,13 +76,15 @@ There are some tips to help you to analyze your stocks.
 
     ![add_indicator_code](./images/add_indicator_code.png)
     
-## Other resources
+## :link: Other resources
+
+- [Ark track - Alien tomato:tomato:](https://ark.alien-tomato.com/)
 
 - [ARK Invest Active ETF Holdings Tracker](https://www.arktrack.com/)
 
 - [Cheaper Than Guru](https://cheaperthanguru.com/)
 
-## Disclaimer 
+## :warning: Disclaimer 
 
 This project is for educational and entertainment purposes only. 
 The information herein may be inaccurate or outdated. 
@@ -69,6 +93,6 @@ Your investments are solely your own responsibility.
 It is very important for you to conduct your own research or consult a financial adviser before you make any investment decisions.
 The author accepts no responsibility for buying or selling decisions made using the information provided by this repository.
  
-## Thank you
+## :tomato: Thank you
 
 I got inspired by a video made by this [Youtuber](https://youtu.be/DfSRNcCbEpA). I follow his idea to finish this project. He did lots of awesome videos to analyze the company's finances and introduce math knowledge behind the stock indicator. If you'd like to learn how to invest, I strongly recommend you to subscribe to his youtube channel.

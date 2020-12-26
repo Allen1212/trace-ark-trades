@@ -1,5 +1,9 @@
 //@version=4
-study("HUBS-tracker", overlay=true)
-label.new(timestamp(2020, 11, 16), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
-label.new(timestamp(2020, 7, 20), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
-label.new(timestamp(2020, 3, 2), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
+study("HUBS-tracker", overlay=true, max_labels_count=100)
+etf_type = input("ALL", title="ETF", options=["ARKW","ALL"])
+if etf_type == "ALL"
+    label.new(timestamp(2020, 3, 2), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2020, 7, 20), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2020, 11, 16), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
+if etf_type == "ARKW"
+    label.new(timestamp(2020, 11, 16), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 14,874\n % of ETF: 0.1527", style=label.style_labeldown, color=color.red)

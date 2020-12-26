@@ -1,5 +1,11 @@
 //@version=4
-study("PLTR-tracker", overlay=true)
-label.new(timestamp(2020, 11, 13), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
-label.new(timestamp(2020, 10, 22), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
-label.new(timestamp(2020, 10, 15), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
+study("PLTR-tracker", overlay=true, max_labels_count=100)
+etf_type = input("ALL", title="ETF", options=["ARKW","ALL"])
+if etf_type == "ALL"
+    label.new(timestamp(2020, 10, 15), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 10, 22), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 11, 13), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+if etf_type == "ARKW"
+    label.new(timestamp(2020, 10, 15), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 20,776\n % of ETF: 0.0065", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 10, 22), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 3,598\n % of ETF: 0.0011", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 11, 13), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 5,700\n % of ETF: 0.4860", style=label.style_labelup, color=color.green)

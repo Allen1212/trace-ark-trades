@@ -1,4 +1,9 @@
 //@version=4
-study("PTON-tracker", overlay=true)
-label.new(timestamp(2020, 12, 8), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
-label.new(timestamp(2020, 12, 7), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
+study("PTON-tracker", overlay=true, max_labels_count=100)
+etf_type = input("ALL", title="ETF", options=["ARKW","ALL"])
+if etf_type == "ALL"
+    label.new(timestamp(2020, 12, 7), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 12, 8), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+if etf_type == "ARKW"
+    label.new(timestamp(2020, 12, 7), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 135,900\n % of ETF: 0.3521", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 12, 8), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 263,300\n % of ETF: 0.6587", style=label.style_labelup, color=color.green)

@@ -1,7 +1,12 @@
 //@version=4
-study("LSPD-tracker", overlay=true)
-label.new(timestamp(2020, 10, 6), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
-label.new(timestamp(2020, 10, 5), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
-label.new(timestamp(2020, 9, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
-label.new(timestamp(2020, 4, 14), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
-label.new(timestamp(2020, 4, 13), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
+study("LSPD-tracker", overlay=true, max_labels_count=100)
+etf_type = input("ALL", title="ETF", options=["ARKF","ALL"])
+if etf_type == "ALL"
+    label.new(timestamp(2020, 4, 13), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 4, 14), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 9, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 10, 5), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 10, 6), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+if etf_type == "ARKF"
+    label.new(timestamp(2020, 10, 5), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 54,714\n % of ETF: 0.2402", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 10, 6), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 75,272\n % of ETF: 0.344", style=label.style_labelup, color=color.green)

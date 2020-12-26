@@ -1,4 +1,7 @@
 //@version=4
-study("4477JP-tracker", overlay=true)
-label.new(timestamp(2020, 12, 16), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
-label.new(timestamp(2020, 12, 10), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
+study("4477JP-tracker", overlay=true, max_labels_count=100)
+etf_type = input("ALL", title="ETF", options=["ARKF","ALL"])
+if etf_type == "ALL"
+    label.new(timestamp(2020, 12, 10), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+if etf_type == "ARKF"
+    label.new(timestamp(2020, 12, 10), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 87,600\n % of ETF: 0.4900", style=label.style_labelup, color=color.green)

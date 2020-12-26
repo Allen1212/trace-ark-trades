@@ -1,4 +1,9 @@
 //@version=4
-study("NET-tracker", overlay=true)
-label.new(timestamp(2020, 11, 9), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
-label.new(timestamp(2020, 10, 12), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
+study("NET-tracker", overlay=true, max_labels_count=100)
+etf_type = input("ALL", title="ETF", options=["ARKW","ALL"])
+if etf_type == "ALL"
+    label.new(timestamp(2020, 10, 12), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 11, 9), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+if etf_type == "ARKW"
+    label.new(timestamp(2020, 10, 12), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 260,600\n % of ETF: 0.51", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 11, 9), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 249,700\n % of ETF: 0.5182", style=label.style_labelup, color=color.green)

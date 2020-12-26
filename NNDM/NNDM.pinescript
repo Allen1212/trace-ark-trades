@@ -1,5 +1,9 @@
 //@version=4
-study("NNDM-tracker", overlay=true)
-label.new(timestamp(2020, 10, 26), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
-label.new(timestamp(2020, 9, 29), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
-label.new(timestamp(2020, 9, 28), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
+study("NNDM-tracker", overlay=true, max_labels_count=100)
+etf_type = input("ALL", title="ETF", options=["ARKQ","ALL"])
+if etf_type == "ALL"
+    label.new(timestamp(2020, 9, 28), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 9, 29), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+if etf_type == "ARKQ"
+    label.new(timestamp(2020, 9, 28), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 32,326\n % of ETF: 0.0077", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 9, 29), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 214,461\n % of ETF: 0.0583", style=label.style_labelup, color=color.green)

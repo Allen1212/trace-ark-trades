@@ -1,7 +1,11 @@
 //@version=4
-study("WIX-tracker", overlay=true)
-label.new(timestamp(2020, 11, 4), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
-label.new(timestamp(2020, 10, 28), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
-label.new(timestamp(2020, 10, 27), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
-label.new(timestamp(2020, 8, 6), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
-label.new(timestamp(2020, 1, 16), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
+study("WIX-tracker", overlay=true, max_labels_count=100)
+etf_type = input("ALL", title="ETF", options=["ARKW","ALL"])
+if etf_type == "ALL"
+    label.new(timestamp(2020, 1, 16), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 8, 6), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 10, 27), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2020, 10, 28), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
+if etf_type == "ARKW"
+    label.new(timestamp(2020, 10, 27), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 45,259\n % of ETF: 0.3999", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2020, 10, 28), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 1,580\n % of ETF: 0.0142", style=label.style_labeldown, color=color.red)

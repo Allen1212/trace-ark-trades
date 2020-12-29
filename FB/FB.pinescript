@@ -1,6 +1,6 @@
 //@version=4
 study("FB-tracker", overlay=true, max_labels_count=100)
-etf_type = input("ALL", title="ETF", options=["ARKW","ARKK","ALL"])
+etf_type = input("ALL", title="ETF", options=["ARKK","ARKW","ALL"])
 if etf_type == "ALL"
     label.new(timestamp(2020, 4, 27), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX2", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 5, 20), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX2", style=label.style_labelup, color=color.green)
@@ -14,10 +14,10 @@ if etf_type == "ALL"
     label.new(timestamp(2020, 11, 9), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX2", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 11, 11), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 11, 30), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+if etf_type == "ARKK"
+    label.new(timestamp(2020, 11, 9), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 343,311\n % of ETF: 0.9222", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2020, 11, 11), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 4,896\n % of ETF: 0.0124", style=label.style_labeldown, color=color.red)
 if etf_type == "ARKW"
     label.new(timestamp(2020, 11, 2), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 26,776\n % of ETF: 0.2444", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 11, 9), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 49,535\n % of ETF: 0.4588", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 11, 30), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 74,133\n % of ETF: 0.4963", style=label.style_labelup, color=color.green)
-if etf_type == "ARKK"
-    label.new(timestamp(2020, 11, 9), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 343,311\n % of ETF: 0.9222", style=label.style_labeldown, color=color.red)
-    label.new(timestamp(2020, 11, 11), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 4,896\n % of ETF: 0.0124", style=label.style_labeldown, color=color.red)

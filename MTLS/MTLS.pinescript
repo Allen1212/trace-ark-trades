@@ -59,7 +59,8 @@ if etf_type == "ALL"
     label.new(timestamp(2020, 12, 21), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 12, 22), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 12, 23), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
-    label.new(timestamp(2020, 12, 24), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX2", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2020, 12, 24), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2020, 12, 28), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX2", style=label.style_labeldown, color=color.red)
 if etf_type == "ARKQ"
     label.new(timestamp(2020, 10, 12), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 7,443\n % of ETF: 0.05", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 12, 7), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 14,592\n % of ETF: 0.0622", style=label.style_labeldown, color=color.red)
@@ -69,3 +70,4 @@ if etf_type == "ARKQ"
     label.new(timestamp(2020, 12, 22), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 65,871\n % of ETF: 0.2389", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 12, 23), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 11,253\n % of ETF: 0.0432", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 12, 24), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 4,440\n % of ETF: 0.0159", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2020, 12, 28), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 2,325\n % of ETF: 0.0086", style=label.style_labeldown, color=color.red)

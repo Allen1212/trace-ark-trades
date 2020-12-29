@@ -1,6 +1,6 @@
 //@version=4
 study("NVTA-tracker", overlay=true, max_labels_count=100)
-etf_type = input("ALL", title="ETF", options=["ARKG","ARKK","ALL"])
+etf_type = input("ALL", title="ETF", options=["ARKK","ARKG","ALL"])
 if etf_type == "ALL"
     label.new(timestamp(2019, 12, 9), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
     label.new(timestamp(2019, 12, 12), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX2", style=label.style_labelup, color=color.green)
@@ -58,9 +58,9 @@ if etf_type == "ALL"
     label.new(timestamp(2020, 10, 5), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 10, 6), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 11, 20), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
-if etf_type == "ARKG"
-    label.new(timestamp(2020, 11, 20), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 70,138\n % of ETF: 0.0900", style=label.style_labeldown, color=color.red)
 if etf_type == "ARKK"
     label.new(timestamp(2020, 9, 25), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 357,830\n % of ETF: 0.1835", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 10, 5), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 127,226\n % of ETF: 0.0611", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 10, 6), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 162,727\n % of ETF: 0.0853", style=label.style_labeldown, color=color.red)
+if etf_type == "ARKG"
+    label.new(timestamp(2020, 11, 20), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 70,138\n % of ETF: 0.0900", style=label.style_labeldown, color=color.red)

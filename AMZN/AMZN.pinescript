@@ -1,6 +1,6 @@
 //@version=4
 study("AMZN-tracker", overlay=true, max_labels_count=100)
-etf_type = input("ALL", title="ETF", options=["ARKW","ARKF","ALL"])
+etf_type = input("ALL", title="ETF", options=["ARKF","ARKW","ALL"])
 if etf_type == "ALL"
     label.new(timestamp(2019, 12, 23), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX2", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 2, 5), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
@@ -24,11 +24,11 @@ if etf_type == "ALL"
     label.new(timestamp(2020, 11, 16), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 11, 18), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 12, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+if etf_type == "ARKF"
+    label.new(timestamp(2020, 11, 18), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 852\n % of ETF: 0.2440", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2020, 12, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 2,660\n % of ETF: 0.4996", style=label.style_labelup, color=color.green)
 if etf_type == "ARKW"
     label.new(timestamp(2020, 10, 30), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 3,493\n % of ETF: 0.3753", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 11, 3), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 1,853\n % of ETF: 0.1949", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 11, 13), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 1,625\n % of ETF: 0.1526", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 11, 16), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 11,168\n % of ETF: 1.0211", style=label.style_labeldown, color=color.red)
-if etf_type == "ARKF"
-    label.new(timestamp(2020, 11, 18), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 852\n % of ETF: 0.2440", style=label.style_labeldown, color=color.red)
-    label.new(timestamp(2020, 12, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 2,660\n % of ETF: 0.4996", style=label.style_labelup, color=color.green)

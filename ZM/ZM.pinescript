@@ -1,6 +1,6 @@
 //@version=4
 study("ZM-tracker", overlay=true, max_labels_count=100)
-etf_type = input("ALL", title="ETF", options=["ARKW","ARKK","ALL"])
+etf_type = input("ALL", title="ETF", options=["ARKK","ARKW","ALL"])
 if etf_type == "ALL"
     label.new(timestamp(2020, 2, 3), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 2, 24), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
@@ -11,13 +11,6 @@ if etf_type == "ALL"
     label.new(timestamp(2020, 12, 15), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 12, 28), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX4", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 12, 31), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX2", style=label.style_labelup, color=color.green)
-if etf_type == "ARKW"
-    label.new(timestamp(2020, 10, 15), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 54,172\n % of ETF: 0.9644", style=label.style_labelup, color=color.green)
-    label.new(timestamp(2020, 11, 10), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 10,840\n % of ETF: 0.1320", style=label.style_labelup, color=color.green)
-    label.new(timestamp(2020, 12, 1), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 25,322\n % of ETF: 0.2547", style=label.style_labelup, color=color.green)
-    label.new(timestamp(2020, 12, 9), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 29,543\n % of ETF: 0.2552", style=label.style_labelup, color=color.green)
-    label.new(timestamp(2020, 12, 28), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 37,839\n % of ETF: 0.2562", style=label.style_labelup, color=color.green)
-    label.new(timestamp(2020, 12, 31), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 30,100\n % of ETF: 0.2000", style=label.style_labelup, color=color.green)
 if etf_type == "ARKK"
     label.new(timestamp(2020, 10, 15), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 198,075\n % of ETF: 0.9865", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 11, 10), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 33,322\n % of ETF: 0.1178", style=label.style_labelup, color=color.green)
@@ -26,3 +19,10 @@ if etf_type == "ARKK"
     label.new(timestamp(2020, 12, 15), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 42,239\n % of ETF: 0.1040", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 12, 28), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 131,003\n % of ETF: 0.2593", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 12, 31), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 105,220\n % of ETF: 0.2000", style=label.style_labelup, color=color.green)
+if etf_type == "ARKW"
+    label.new(timestamp(2020, 10, 15), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 54,172\n % of ETF: 0.9644", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 11, 10), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 10,840\n % of ETF: 0.1320", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 12, 1), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 25,322\n % of ETF: 0.2547", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 12, 9), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 29,543\n % of ETF: 0.2552", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 12, 28), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 37,839\n % of ETF: 0.2562", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2020, 12, 31), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 30,100\n % of ETF: 0.2000", style=label.style_labelup, color=color.green)

@@ -4,6 +4,8 @@ etf_type = input("ALL", title="ETF", options=["ARKW","ALL"])
 if etf_type == "ALL"
     label.new(timestamp(2021, 1, 4), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX2", style=label.style_labelup, color=color.green)
     label.new(timestamp(2021, 1, 5), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2021, 1, 6), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
 if etf_type == "ARKW"
     label.new(timestamp(2021, 1, 4), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 123,520\n % of ETF: 0.0547", style=label.style_labelup, color=color.green)
     label.new(timestamp(2021, 1, 5), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 288,539\n % of ETF: 0.1339", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2021, 1, 6), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 119,700\n % of ETF: 0.0593", style=label.style_labelup, color=color.green)

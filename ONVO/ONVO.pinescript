@@ -1,0 +1,7 @@
+//@version=4
+study("ONVO-tracker", overlay=true, max_labels_count=100)
+etf_type = input("ALL", title="ETF", options=["ARKK","ALL"])
+if etf_type == "ALL"
+    label.new(timestamp(2021, 1, 7), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
+if etf_type == "ARKK"
+    label.new(timestamp(2021, 1, 7), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 7,749\n % of ETF: 0.0005", style=label.style_labeldown, color=color.red)

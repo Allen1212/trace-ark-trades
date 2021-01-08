@@ -26,6 +26,7 @@ if etf_type == "ALL"
     label.new(timestamp(2020, 12, 23), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 12, 24), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 12, 28), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX4", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2021, 1, 7), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
 if etf_type == "ARKF"
     label.new(timestamp(2020, 10, 27), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 4,235\n % of ETF: 0.5011", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 11, 9), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 3,957\n % of ETF: 0.3549", style=label.style_labelup, color=color.green)
@@ -42,6 +43,7 @@ if etf_type == "ARKK"
     label.new(timestamp(2020, 12, 22), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 44,118\n % of ETF: 0.3057", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 12, 24), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 13,801\n % of ETF: 0.0894", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 12, 28), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 17,603\n % of ETF: 0.1161", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2021, 1, 7), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 21,934\n % of ETF: 0.1255", style=label.style_labelup, color=color.green)
 if etf_type == "ARKW"
     label.new(timestamp(2020, 10, 27), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 11,803\n % of ETF: 0.4217", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 11, 16), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 18,909\n % of ETF: 0.5020", style=label.style_labelup, color=color.green)

@@ -1,3 +1,5 @@
 //@version=4
-study("ALLT-tracker", overlay=true)
-label.new(timestamp(2020, 1, 16), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy", style=label.style_labelup, color=color.green)
+study("ALLT-tracker", overlay=true, max_labels_count=500)
+etf_type = input("ALL", title="ETF", options=["ALL"])
+if etf_type == "ALL"
+    label.new(timestamp(2020, 1, 16), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)

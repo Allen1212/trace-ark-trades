@@ -1,4 +1,6 @@
 //@version=4
-study("STMN-tracker", overlay=true)
-label.new(timestamp(2020, 1, 21), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
-label.new(timestamp(2020, 1, 17), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
+study("STMN-tracker", overlay=true, max_labels_count=500)
+etf_type = input("ALL", title="ETF", options=["ALL"])
+if etf_type == "ALL"
+    label.new(timestamp(2020, 1, 17), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2020, 1, 21), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)

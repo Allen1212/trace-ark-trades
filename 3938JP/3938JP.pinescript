@@ -1,4 +1,0 @@
-//@version=4
-study("3938JP-tracker", overlay=true)
-label.new(timestamp(2019, 12, 11), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)
-label.new(timestamp(2019, 11, 20), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell", style=label.style_labeldown, color=color.red)

@@ -1,7 +1,7 @@
 # trace-ark-trades
 
 This project records all purchases and sales made by [ARK Invest](https://ark-invest.com/) from 11/12/2019 to the present and utilizes [Pine script](https://www.tradingview.com/pine-script-docs/en/v4/index.html) to visualize these trades in [TradingView](https://www.tradingview.com). 
-It includes trade records of 259 stocks. 
+It includes trade records of 260 stocks. 
 Through analyzing these trades, I think it's an excellent beginning to investigate how ARK invests and build your own investing system. 
 BTW, you can combine some charting tools, technical indicators, and my scripts to analyze your stocks in TradingView.
 
@@ -9,9 +9,9 @@ BTW, you can combine some charting tools, technical indicators, and my scripts t
 
 - Count how many Ark ETFs sold/bought your stock on the same day 
 
-    ![tsla](./images/tsla.png)
+    ![tsla](./images/aapl.png)
     
-    For example, ARKW and ARKQ sold TSLA on 12/3/2020. We mark "×2" on the label of 12/3/2020.
+    For example, ARKF, ARKG, and ARKQ sold AAPL on 1/8/2021. We mark "×3" on the label of 1/8/2021.
     
 - View the trading records of each ETF on your stock
 
@@ -23,15 +23,15 @@ BTW, you can combine some charting tools, technical indicators, and my scripts t
     
         ![change_inputs](./images/change_inputs.png)
     
-    - Check the Sell/Buy information (share volume and percentage of ETF of Sell/Buy)
+    - Observe the Sell/Buy information(share volume) and stock weight in the ETF
     
         ![etf](./images/etf.png)
 
 ## :page_with_curl: Data sources
 
-I get trade data from 11/12/2019 - 9/24/2020 in this [pdf](https://ark-invest.com/wp-content/trades/ARK_Trades.pdf). 
-From 9/25/2020 to the present, I collected the trade records via subscribing to ARK's trade notifications. 
-You can subscribe to the services from [here](https://ark-funds.com/subscribe). ARK will email its trading log to you daily.
+I get trade data from 11/12/2019 - 10/16/2020 in this [pdf](https://ark-invest.com/wp-content/trades/ARK_Trades.pdf). 
+From 10/19/2020 to the present, the stock's share change is calculated using its day to day position in ARK's holdings. 
+You can check ARK's holdings from ARK's [website](https://ark-funds.com/investor-resources).
 
 ## :memo: Instructions
 

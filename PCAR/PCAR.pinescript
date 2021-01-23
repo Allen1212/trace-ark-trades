@@ -1,6 +1,11 @@
 //@version=4
 study("PCAR-tracker", overlay=true, max_labels_count=500)
-etf_type = input("ALL", title="ETF", options=["ALL"])
+etf_type = input("ALL", title="ETF", options=["ARKK","ALL"])
 if etf_type == "ALL"
     label.new(timestamp(2021, 1, 20), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
     label.new(timestamp(2021, 1, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2021, 1, 22), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+if etf_type == "ARKK"
+    label.new(timestamp(2021, 1, 20), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 174,100\n Weight(%): 0.07", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2021, 1, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 225,723\n Weight(%): 0.17", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2021, 1, 22), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 50,235\n Weight(%): 0.18", style=label.style_labelup, color=color.green)

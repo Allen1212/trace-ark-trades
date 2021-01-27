@@ -5,6 +5,11 @@ It includes trade records of 265 stocks.
 Through analyzing these trades, I think it's an excellent beginning to investigate how ARK invests and build your own investing system. 
 BTW, you can combine some charting tools, technical indicators, and my scripts to analyze your stocks in TradingView.
 
+## :rocket: Update (1/26/2021)
+
+- ARKQ: add a new ticker **PCAR**
+- ARKW: add a new ticker **TWTR**
+
 ## :star2: New features
 
 - Count how many Ark ETFs sold/bought your stock on the same day 

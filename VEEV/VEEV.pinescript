@@ -35,6 +35,7 @@ if etf_type == "ALL"
     label.new(timestamp(2021, 2, 8), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
     label.new(timestamp(2021, 2, 9), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
     label.new(timestamp(2021, 2, 10), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2021, 2, 11), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
 if etf_type == "ARKG"
     label.new(timestamp(2020, 12, 23), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 112,702\n Weight(%): 0.93", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 12, 24), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 26,404\n Weight(%): 1.03", style=label.style_labelup, color=color.green)
@@ -69,3 +70,4 @@ if etf_type == "ARKG"
     label.new(timestamp(2021, 2, 8), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 11,886\n Weight(%): 1.49", style=label.style_labelup, color=color.green)
     label.new(timestamp(2021, 2, 9), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 7,641\n Weight(%): 1.54", style=label.style_labelup, color=color.green)
     label.new(timestamp(2021, 2, 10), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 3,384\n Weight(%): 1.59", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2021, 2, 11), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 1,981\n Weight(%): 1.57", style=label.style_labelup, color=color.green)

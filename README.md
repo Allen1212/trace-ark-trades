@@ -7,6 +7,9 @@ BTW, you can combine some charting tools, technical indicators, and my scripts t
 
 ## :rocket: Update (2/10/2021)
 
+2/11/2021
+ARKG: add a new ticker **CMLF**
+
 2/10/2021
 - ARKF: add a new ticker **1833**
 

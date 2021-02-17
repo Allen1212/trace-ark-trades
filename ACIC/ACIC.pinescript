@@ -3,5 +3,7 @@ study("ACIC-tracker", overlay=true, max_labels_count=500)
 etf_type = input("ALL", title="ETF", options=["ARKQ","ALL"])
 if etf_type == "ALL"
     label.new(timestamp(2021, 2, 16), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2021, 2, 17), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
 if etf_type == "ARKQ"
     label.new(timestamp(2021, 2, 16), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 372,574\n Weight(%): 0.13", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2021, 2, 17), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 4,440\n Weight(%): 0.15", style=label.style_labelup, color=color.green)

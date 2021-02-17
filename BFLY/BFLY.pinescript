@@ -3,5 +3,7 @@ study("BFLY-tracker", overlay=true, max_labels_count=500)
 etf_type = input("ALL", title="ETF", options=["ARKG","ALL"])
 if etf_type == "ALL"
     label.new(timestamp(2021, 2, 16), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2021, 2, 17), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
 if etf_type == "ARKG"
     label.new(timestamp(2021, 2, 16), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 2,245,995\n Weight(%): 0.40", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2021, 2, 17), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 144,692\n Weight(%): 0.50", style=label.style_labelup, color=color.green)

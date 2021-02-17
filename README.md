@@ -1,11 +1,18 @@
 # trace-ark-trades
 
 This project records all purchases and sales made by [ARK Invest](https://ark-invest.com/) from 11/12/2019 to the present and utilizes [Pine script](https://www.tradingview.com/pine-script-docs/en/v4/index.html) to visualize these trades in [TradingView](https://www.tradingview.com). 
-It includes trade records of 269 stocks. 
+It includes trade records of 274 stocks. 
 Through analyzing these trades, I think it's an excellent beginning to investigate how ARK invests and build your own investing system. 
 BTW, you can combine some charting tools, technical indicators, and my scripts to analyze your stocks in TradingView.
 
-## :rocket: Update (2/10/2021)
+## :rocket: Update (2/16/2021)
+
+2/16/2021
+- ARKG: add a new ticker **BFLY**
+- ARKG: add a new ticker **ABBV**
+- ARKG: add a new ticker **SGFY**
+- ARKG: remove a ticker **LGVW**
+- ARKQ: add a new ticker **ACIC**
 
 2/11/2021
 - ARKG: add a new ticker **CMLF**

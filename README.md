@@ -5,7 +5,10 @@ It includes trade records of 274 stocks.
 Through analyzing these trades, I think it's an excellent beginning to investigate how ARK invests and build your own investing system. 
 BTW, you can combine some charting tools, technical indicators, and my scripts to analyze your stocks in TradingView.
 
-## :rocket: Update (2/24/2021)
+## :rocket: Update (2/26/2021)
+
+2/26/2021
+- ARKQ: remove a ticker **SPLK**
 
 2/24/2021
 - ARKG: remove a ticker **HIMS**

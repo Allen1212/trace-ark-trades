@@ -5,75 +5,6 @@ It includes trade records of 274 stocks.
 Through analyzing these trades, I think it's an excellent beginning to investigate how ARK invests and build your own investing system. 
 BTW, you can combine some charting tools, technical indicators, and my scripts to analyze your stocks in TradingView.
 
-## :rocket: Update (3/5/2021)
-3/5/2021
-- ARKG: add a new ticker **SEER**
-
-3/3/2021
-- ARKQ: add a new ticker **U**
-
-3/1/2021
-- ARKK: add a new ticker **BLI**
-- ARKK: remove a ticker **PINS**
-- ARKK: remove a ticker **SNAP**
-- ARKQ: add a new ticker **SPLK**
-- ARKW: remove a ticker **AAPL**
-- ARKW: remove a ticker **CRM**
-- ARKW: remove a ticker **BABA**
-
-2/26/2021
-- ARKQ: remove a ticker **SPLK**
-
-2/24/2021
-- ARKG: remove a ticker **HIMS**
-- ARKQ: add a new ticker **AONE**
-
-2/22/2021
-- ARKK: add a new ticker **TWTR**
-- ARKQ: remove a ticker **HON**
-
-2/19/2021
-- ARKK: remove a ticker **SPLK**
-- ARKQ: add a new ticker **VUZI**
-
-2/18/2021
-- ARKK: add a new ticker **PLTR**
-
-2/16/2021
-- ARKG: add a new ticker **BFLY**
-- ARKG: add a new ticker **ABBV**
-- ARKG: add a new ticker **SGFY**
-- ARKG: remove a ticker **LGVW**
-- ARKQ: add a new ticker **ACIC**
-
-2/11/2021
-- ARKG: add a new ticker **CMLF**
-
-2/10/2021
-- ARKF: add a new ticker **1833**
-
-2/8/2021
-- ARKF: add a new ticker **DKNG**
-- ARKQ: add a new ticker **BABA**
-
-2/5/2021
-- ARKK: add a new ticker **SNAP**
-
-2/4/2021
-- ARKF: add a new ticker **BILL**
-
-2/1/2021
-- ARKK: add a new ticker **TER**
-- ARKW: add a new ticker **DKNG**
-
-1/27/2021
-- ARKG: add a new ticker **HIMS**
-- ARKK: add a new ticker **BEAM**
-
-1/26/2021
-- ARKQ: add a new ticker **PCAR**
-- ARKW: add a new ticker **TWTR**
-
 ## :star2: New features
 
 - Count how many Ark ETFs sold/bought your stock on the same day 
@@ -165,3 +96,76 @@ The author accepts no responsibility for buying or selling decisions made using 
 ## :tomato: Thank you
 
 I got inspired by a video made by this [Youtuber](https://youtu.be/DfSRNcCbEpA). I follow his idea to finish this project. He did lots of awesome videos to analyze the company's finances and introduce math knowledge behind the stock indicator. If you'd like to learn how to invest, I strongly recommend you to subscribe to his youtube channel.
+
+
+## :rocket: Update (3/8/2021)
+3/8/2021
+- ARKK: add a new ticker **DKNG**
+
+3/5/2021
+- ARKG: add a new ticker **SEER**
+
+3/3/2021
+- ARKQ: add a new ticker **U**
+
+3/1/2021
+- ARKK: add a new ticker **BLI**
+- ARKK: remove a ticker **PINS**
+- ARKK: remove a ticker **SNAP**
+- ARKQ: add a new ticker **SPLK**
+- ARKW: remove a ticker **AAPL**
+- ARKW: remove a ticker **CRM**
+- ARKW: remove a ticker **BABA**
+
+2/26/2021
+- ARKQ: remove a ticker **SPLK**
+
+2/24/2021
+- ARKG: remove a ticker **HIMS**
+- ARKQ: add a new ticker **AONE**
+
+2/22/2021
+- ARKK: add a new ticker **TWTR**
+- ARKQ: remove a ticker **HON**
+
+2/19/2021
+- ARKK: remove a ticker **SPLK**
+- ARKQ: add a new ticker **VUZI**
+
+2/18/2021
+- ARKK: add a new ticker **PLTR**
+
+2/16/2021
+- ARKG: add a new ticker **BFLY**
+- ARKG: add a new ticker **ABBV**
+- ARKG: add a new ticker **SGFY**
+- ARKG: remove a ticker **LGVW**
+- ARKQ: add a new ticker **ACIC**
+
+2/11/2021
+- ARKG: add a new ticker **CMLF**
+
+2/10/2021
+- ARKF: add a new ticker **1833**
+
+2/8/2021
+- ARKF: add a new ticker **DKNG**
+- ARKQ: add a new ticker **BABA**
+
+2/5/2021
+- ARKK: add a new ticker **SNAP**
+
+2/4/2021
+- ARKF: add a new ticker **BILL**
+
+2/1/2021
+- ARKK: add a new ticker **TER**
+- ARKW: add a new ticker **DKNG**
+
+1/27/2021
+- ARKG: add a new ticker **HIMS**
+- ARKK: add a new ticker **BEAM**
+
+1/26/2021
+- ARKQ: add a new ticker **PCAR**
+- ARKW: add a new ticker **TWTR**

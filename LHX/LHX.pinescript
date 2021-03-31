@@ -3,5 +3,7 @@ study("LHX-tracker", overlay=true, max_labels_count=500)
 etf_type = input("ALL", title="ETF", options=["ARKX","ALL"])
 if etf_type == "ALL"
     label.new(timestamp(2021, 3, 29), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2021, 3, 30), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
 if etf_type == "ARKX"
     label.new(timestamp(2021, 3, 29), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 1,020\n Weight(%): 5.12", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2021, 3, 30), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 14,593\n Weight(%): 4.99", style=label.style_labelup, color=color.green)

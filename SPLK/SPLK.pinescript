@@ -146,6 +146,7 @@ if etf_type == "ALL"
     label.new(timestamp(2021, 4, 1), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
     label.new(timestamp(2021, 4, 5), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
     label.new(timestamp(2021, 4, 6), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2021, 4, 7), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
 if etf_type == "ARKF"
     label.new(timestamp(2020, 10, 20), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 1,491\n Weight(%): 2.10", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 10, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 1,704\n Weight(%): 2.09", style=label.style_labelup, color=color.green)
@@ -244,6 +245,7 @@ if etf_type == "ARKF"
     label.new(timestamp(2021, 4, 1), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 12\n Weight(%): 0.02", style=label.style_labelup, color=color.green)
     label.new(timestamp(2021, 4, 5), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 8\n Weight(%): 0.02", style=label.style_labelup, color=color.green)
     label.new(timestamp(2021, 4, 6), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 12\n Weight(%): 0.02", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2021, 4, 7), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 72\n Weight(%): 0.02", style=label.style_labelup, color=color.green)
 if etf_type == "ARKK"
     label.new(timestamp(2020, 10, 20), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 5,744\n Weight(%): 1.51", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 10, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 720\n Weight(%): 1.55", style=label.style_labelup, color=color.green)

@@ -1,0 +1,9 @@
+//@version=4
+study("TSP-tracker", overlay=true, max_labels_count=500)
+etf_type = input("ALL", title="ETF", options=["ARKK","ARKQ","ALL"])
+if etf_type == "ALL"
+    label.new(timestamp(2021, 4, 15), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX2", style=label.style_labelup, color=color.green)
+if etf_type == "ARKK"
+    label.new(timestamp(2021, 4, 15), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 2,350,496\n Weight(%): 0.37", style=label.style_labelup, color=color.green)
+if etf_type == "ARKQ"
+    label.new(timestamp(2021, 4, 15), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 728,536\n Weight(%): 0.85", style=label.style_labelup, color=color.green)

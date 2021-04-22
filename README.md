@@ -98,7 +98,16 @@ The author accepts no responsibility for buying or selling decisions made using 
 I got inspired by a video made by this [Youtuber](https://youtu.be/DfSRNcCbEpA). I follow his idea to finish this project. He did lots of awesome videos to analyze the company's finances and introduce math knowledge behind the stock indicator. If you'd like to learn how to invest, I strongly recommend you to subscribe to his youtube channel.
 
 
-## :rocket: Update (4/16/2021)
+## :rocket: Update (4/21/2021)
+04/21/2021
+- ARKF: add a new ticker **PATH**
+- ARKG: add a new ticker **PATH**
+- ARKK: add a new ticker **PATH**
+- ARKK: add a new ticker **SKLZ**
+- ARKQ: add a new ticker **PATH**
+- ARKW: add a new ticker **PATH**
+- ARKX: add a new ticker **PATH**
+
 4/16/202
 - ARKG: add a new ticker **RXRX**
 

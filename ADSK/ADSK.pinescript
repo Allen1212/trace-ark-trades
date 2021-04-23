@@ -142,6 +142,7 @@ if etf_type == "ALL"
     label.new(timestamp(2021, 4, 19), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
     label.new(timestamp(2021, 4, 20), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2021, 4, 21), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2021, 4, 22), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
 if etf_type == "ARKQ"
     label.new(timestamp(2020, 10, 19), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 505\n Weight(%): 0.85", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 10, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 303\n Weight(%): 0.83", style=label.style_labelup, color=color.green)
@@ -242,6 +243,7 @@ if etf_type == "ARKQ"
     label.new(timestamp(2021, 4, 16), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -94\n Weight(%): 0.66", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2021, 4, 20), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -470\n Weight(%): 0.66", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2021, 4, 21), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -376\n Weight(%): 0.64", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2021, 4, 22), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 93\n Weight(%): 0.64", style=label.style_labelup, color=color.green)
 if etf_type == "ARKX"
     label.new(timestamp(2021, 3, 29), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 124\n Weight(%): 0.83", style=label.style_labelup, color=color.green)
     label.new(timestamp(2021, 3, 30), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 1,774\n Weight(%): 0.80", style=label.style_labelup, color=color.green)

@@ -98,7 +98,11 @@ The author accepts no responsibility for buying or selling decisions made using 
 I got inspired by a video made by this [Youtuber](https://youtu.be/DfSRNcCbEpA). I follow his idea to finish this project. He did lots of awesome videos to analyze the company's finances and introduce math knowledge behind the stock indicator. If you'd like to learn how to invest, I strongly recommend you to subscribe to his youtube channel.
 
 
-## :rocket: Update (4/26/2021)
+## :rocket: Update (4/27/2021)
+04/27/2021
+- ARKW: remove a ticker **SNPS**
+- ARKX: remove a ticker **XLNX**
+
 04/26/2021
 - ARKQ: remove a ticker **TSM**
 - ARKQ: remove a ticker **XLNX**

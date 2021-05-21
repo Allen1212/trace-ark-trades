@@ -98,7 +98,15 @@ The author accepts no responsibility for buying or selling decisions made using 
 I got inspired by a video made by this [Youtuber](https://youtu.be/DfSRNcCbEpA). I follow his idea to finish this project. He did lots of awesome videos to analyze the company's finances and introduce math knowledge behind the stock indicator. If you'd like to learn how to invest, I strongly recommend you to subscribe to his youtube channel.
 
 
-## :rocket: Update (5/17/2021)
+## :rocket: Update (5/20/2021)
+5/20/2021
+- ARKF: remove a ticker **TREE**
+- ARKF: remove a ticker **AAPL**
+- ARKK: remove a ticker **TREE**
+- ARKQ: remove a ticker **SPCE**
+- ARKW: remove a ticker **FSLY**
+- ARKW: remove a ticker **BIDU**
+
 5/17/2021
 - ARKF: remove a ticker **MKTX**
 - ARKF: remove a ticker **NVDA**

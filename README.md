@@ -1,7 +1,7 @@
 # trace-ark-trades
 
 This project records all purchases and sales made by [ARK Invest](https://ark-invest.com/) from 11/12/2019 to the present and utilizes [Pine script](https://www.tradingview.com/pine-script-docs/en/v4/index.html) to visualize these trades in [TradingView](https://www.tradingview.com). 
-It includes trade records of 301 stocks. 
+It includes trade records of 302 stocks. 
 Through analyzing these trades, I think it's an excellent beginning to investigate how ARK invests and build your own investing system. 
 BTW, you can combine some charting tools, technical indicators, and my scripts to analyze your stocks in TradingView.
 
@@ -29,8 +29,8 @@ BTW, you can combine some charting tools, technical indicators, and my scripts t
 
 ## :page_with_curl: Data sources
 
-I get trade data from 11/12/2019 - 10/16/2020 in this [pdf](https://ark-invest.com/wp-content/trades/ARK_Trades.pdf). 
-From 10/19/2020 to the present, the stock's share change is calculated using its day to day position in ARK's holdings. 
+I get trade data from 11/12/2019 - 10/15/2020 in this [pdf](https://ark-invest.com/wp-content/trades/ARK_Trades.pdf). 
+From 10/16/2020 to the present, the stock's share change is calculated using its day to day position in ARK's holdings. 
 You can check ARK's holdings from ARK's [website](https://ark-funds.com/investor-resources).
 
 ## :memo: Instructions
@@ -98,7 +98,10 @@ The author accepts no responsibility for buying or selling decisions made using 
 I got inspired by a video made by this [Youtuber](https://youtu.be/DfSRNcCbEpA). I follow his idea to finish this project. He did lots of awesome videos to analyze the company's finances and introduce math knowledge behind the stock indicator. If you'd like to learn how to invest, I strongly recommend you to subscribe to his youtube channel.
 
 
-## :rocket: Update (5/26/2021)
+## :rocket: Update (6/2/2021)
+6/2/2021
+- ARKW: add a new ticker **ETSY**
+
 5/26/2021
 - ARKF: remove a ticker **GWRE**
 - ARKG: add a new ticker **DYNS**

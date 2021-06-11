@@ -99,6 +99,7 @@ I got inspired by a video made by this [Youtuber](https://youtu.be/DfSRNcCbEpA).
 
 
 ## :rocket: Update (6/9/2021)
+
 6/9/2021
 - ARKG: remove a ticker **SYRS**
 

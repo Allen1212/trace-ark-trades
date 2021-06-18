@@ -98,7 +98,11 @@ The author accepts no responsibility for buying or selling decisions made using 
 I got inspired by a video made by this [Youtuber](https://youtu.be/DfSRNcCbEpA). I follow his idea to finish this project. He did lots of awesome videos to analyze the company's finances and introduce math knowledge behind the stock indicator. If you'd like to learn how to invest, I strongly recommend you to subscribe to his youtube channel.
 
 
-## :rocket: Update (6/14/2021)
+## :rocket: Update (6/17/2021)
+
+6/17/2021 
+- ARKG: add a new ticker **QSI** 
+- ARKG: add a new ticker **VERV** 
 
 6/14/2021 
 - ARKW: remove a ticker **ICE**

@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+6/18/2021 
+- ARKW: add a new ticker **SPLK** 
+
 6/17/2021 
 - ARKG: add a new ticker **QSI** 
 - ARKG: add a new ticker **VERV** 

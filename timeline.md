@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+6/28/2021 
+- ARKW: remove a ticker **PSTG** 
+
 6/18/2021 
 - ARKW: add a new ticker **SPLK** 
 

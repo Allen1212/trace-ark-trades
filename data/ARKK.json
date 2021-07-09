@@ -85741,5 +85741,923 @@
     "shares": "94271.00",
     "value": "11122092.58",
     "percent": "0.05"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "TESLA INC",
+    "ticker": "TSLA",
+    "cusip": "88160R101",
+    "shares": "3608176.00",
+    "value": "2326010658.40",
+    "percent": "9.87"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "ROKU INC",
+    "ticker": "ROKU",
+    "cusip": "77543R102",
+    "shares": "3380913.00",
+    "value": "1416636356.13",
+    "percent": "6.01"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "TELADOC HEALTH INC",
+    "ticker": "TDOC",
+    "cusip": "87918A105",
+    "shares": "8610023.00",
+    "value": "1362622239.98",
+    "percent": "5.78"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "SHOPIFY INC - CLASS A",
+    "ticker": "SHOP",
+    "cusip": "82509L107",
+    "shares": "727085.00",
+    "value": "1105329158.70",
+    "percent": "4.69"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "ZOOM VIDEO COMMUNICATIONS-A",
+    "ticker": "ZM",
+    "cusip": "98980L101",
+    "shares": "2802554.00",
+    "value": "1103954046.14",
+    "percent": "4.68"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "SQUARE INC - A",
+    "ticker": "SQ",
+    "cusip": "852234103",
+    "shares": "4454357.00",
+    "value": "1089713896.48",
+    "percent": "4.62"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "COINBASE GLOBAL INC -CLASS A",
+    "ticker": "COIN",
+    "cusip": "19260Q107",
+    "shares": "3605759.00",
+    "value": "908543095.23",
+    "percent": "3.85"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "TWILIO INC - A",
+    "ticker": "TWLO",
+    "cusip": "90138F102",
+    "shares": "2310541.00",
+    "value": "898453867.85",
+    "percent": "3.81"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "SPOTIFY TECHNOLOGY SA",
+    "ticker": "SPOT",
+    "cusip": "L8681T102",
+    "shares": "3323559.00",
+    "value": "860934723.36",
+    "percent": "3.65"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "UNITY SOFTWARE INC",
+    "ticker": "U",
+    "cusip": "91332U101",
+    "shares": "7725163.00",
+    "value": "807202281.87",
+    "percent": "3.42"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "ZILLOW GROUP INC - C",
+    "ticker": "Z",
+    "cusip": "98954M200",
+    "shares": "6375880.00",
+    "value": "749293417.60",
+    "percent": "3.18"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "CRISPR THERAPEUTICS AG",
+    "ticker": "CRSP",
+    "cusip": "H17182108",
+    "shares": "4936194.00",
+    "value": "702371044.26",
+    "percent": "2.98"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "EXACT SCIENCES CORP",
+    "ticker": "EXAS",
+    "cusip": "30063P105",
+    "shares": "5717434.00",
+    "value": "673170679.16",
+    "percent": "2.86"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "INTELLIA THERAPEUTICS INC",
+    "ticker": "NTLA",
+    "cusip": "45826J105",
+    "shares": "4432536.00",
+    "value": "642806370.72",
+    "percent": "2.73"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "DOCUSIGN INC",
+    "ticker": "DOCU",
+    "cusip": "256163106",
+    "shares": "2119977.00",
+    "value": "612546154.38",
+    "percent": "2.60"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "PALANTIR TECHNOLOGIES INC-A",
+    "ticker": "PLTR",
+    "cusip": "69608A108",
+    "shares": "22461840.00",
+    "value": "514151517.60",
+    "percent": "2.18"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "10X GENOMICS INC-CLASS A",
+    "ticker": "TXG",
+    "cusip": "88025U109",
+    "shares": "2694927.00",
+    "value": "498696241.35",
+    "percent": "2.12"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "TWITTER INC",
+    "ticker": "TWTR",
+    "cusip": "90184L102",
+    "shares": "6569815.00",
+    "value": "451740479.40",
+    "percent": "1.92"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "BEAM THERAPEUTICS INC",
+    "ticker": "BEAM",
+    "cusip": "07373V105",
+    "shares": "4594458.00",
+    "value": "450900108.12",
+    "percent": "1.91"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "DRAFTKINGS INC - CL A",
+    "ticker": "DKNG",
+    "cusip": "26142R104",
+    "shares": "8742203.00",
+    "value": "426182396.25",
+    "percent": "1.81"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "INVITAE CORP",
+    "ticker": "NVTA",
+    "cusip": "46185L103",
+    "shares": "12713629.00",
+    "value": "408361763.48",
+    "percent": "1.73"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "UIPATH INC - CLASS A",
+    "ticker": "PATH",
+    "cusip": "90364P105",
+    "shares": "6060520.00",
+    "value": "403691237.20",
+    "percent": "1.71"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "SEA LTD-ADR",
+    "ticker": "SE",
+    "cusip": "81141R100",
+    "shares": "1378948.00",
+    "value": "369365011.28",
+    "percent": "1.57"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "FATE THERAPEUTICS INC",
+    "ticker": "FATE",
+    "cusip": "31189P102",
+    "shares": "3901363.00",
+    "value": "336726640.53",
+    "percent": "1.43"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "IRIDIUM COMMUNICATIONS INC",
+    "ticker": "IRDM",
+    "cusip": "46269C102",
+    "shares": "8307717.00",
+    "value": "324499426.02",
+    "percent": "1.38"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "NINTENDO CO LTD-UNSPONS ADR",
+    "ticker": "NTDOY",
+    "cusip": "654445303",
+    "shares": "3782981.00",
+    "value": "283004808.61",
+    "percent": "1.20"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "TWIST BIOSCIENCE CORP",
+    "ticker": "TWST",
+    "cusip": "90184D100",
+    "shares": "2166218.00",
+    "value": "274199874.44",
+    "percent": "1.16"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "SKILLZ INC",
+    "ticker": "SKLZ",
+    "cusip": "83067L109",
+    "shares": "15399682.00",
+    "value": "270418415.92",
+    "percent": "1.15"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "IOVANCE BIOTHERAPEUTICS INC",
+    "ticker": "IOVA",
+    "cusip": "462260100",
+    "shares": "10150647.00",
+    "value": "256709862.63",
+    "percent": "1.09"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "TUSIMPLE HOLDINGS INC - A",
+    "ticker": "TSP",
+    "cusip": "90089L108",
+    "shares": "4590460.00",
+    "value": "253393392.00",
+    "percent": "1.07"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "2U INC",
+    "ticker": "TWOU",
+    "cusip": "90214J101",
+    "shares": "5529989.00",
+    "value": "238121326.34",
+    "percent": "1.01"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "TERADYNE INC",
+    "ticker": "TER",
+    "cusip": "880770102",
+    "shares": "1927128.00",
+    "value": "237884680.32",
+    "percent": "1.01"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "PAGERDUTY INC",
+    "ticker": "PD",
+    "cusip": "69553P100",
+    "shares": "5601733.00",
+    "value": "231743694.21",
+    "percent": "0.98"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "EDITAS MEDICINE INC",
+    "ticker": "EDIT",
+    "cusip": "28106W103",
+    "shares": "4569094.00",
+    "value": "208807595.80",
+    "percent": "0.89"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "PACIFIC BIOSCIENCES OF CALIF",
+    "ticker": "PACB",
+    "cusip": "69404D108",
+    "shares": "6345547.00",
+    "value": "203755514.17",
+    "percent": "0.86"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "PROTO LABS INC",
+    "ticker": "PRLB",
+    "cusip": "743713109",
+    "shares": "2134530.00",
+    "value": "193580525.70",
+    "percent": "0.82"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "TENCENT HOLDINGS LTD-UNS ADR",
+    "ticker": "TCEHY",
+    "cusip": "88032Q109",
+    "shares": "2506970.00",
+    "value": "175287342.40",
+    "percent": "0.74"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "BERKELEY LIGHTS INC",
+    "ticker": "BLI",
+    "cusip": "084310101",
+    "shares": "3515109.00",
+    "value": "165385878.45",
+    "percent": "0.70"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "TRIMBLE INC",
+    "ticker": "TRMB",
+    "cusip": "896239100",
+    "shares": "1704503.00",
+    "value": "141320343.73",
+    "percent": "0.60"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "PURE STORAGE INC - CLASS A",
+    "ticker": "PSTG",
+    "cusip": "74624M102",
+    "shares": "6757379.00",
+    "value": "128998365.11",
+    "percent": "0.55"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "VERACYTE INC",
+    "ticker": "VCYT",
+    "cusip": "92337F107",
+    "shares": "3326157.00",
+    "value": "127059197.40",
+    "percent": "0.54"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "NANOSTRING TECHNOLOGIES INC",
+    "ticker": "NSTG",
+    "cusip": "63009R109",
+    "shares": "1901482.00",
+    "value": "118234150.76",
+    "percent": "0.50"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "SERES THERAPEUTICS INC",
+    "ticker": "MCRB",
+    "cusip": "81750R102",
+    "shares": "5518027.00",
+    "value": "110305359.73",
+    "percent": "0.47"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "STRATASYS LTD",
+    "ticker": "SSYS",
+    "cusip": "M85548101",
+    "shares": "4444973.00",
+    "value": "100278590.88",
+    "percent": "0.43"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "MATERIALISE NV-ADR",
+    "ticker": "MTLS",
+    "cusip": "57667T100",
+    "shares": "3959439.00",
+    "value": "93284382.84",
+    "percent": "0.40"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "KE HOLDINGS INC-ADR",
+    "ticker": "BEKE",
+    "cusip": "482497104",
+    "shares": "2190707.00",
+    "value": "85065152.81",
+    "percent": "0.36"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "NOVARTIS AG-SPONSORED ADR",
+    "ticker": "NVS",
+    "cusip": "66987V109",
+    "shares": "853386.00",
+    "value": "78460308.84",
+    "percent": "0.33"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "CERUS CORP",
+    "ticker": "CERS",
+    "cusip": "157085101",
+    "shares": "13086556.00",
+    "value": "68180956.76",
+    "percent": "0.29"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "COMPUGEN LTD",
+    "ticker": "CGEN",
+    "cusip": "M25722105",
+    "shares": "6884929.00",
+    "value": "51843515.37",
+    "percent": "0.22"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "DREYFUS GOVT CASH MAN INS",
+    "ticker": "",
+    "cusip": "X9USDDGCM",
+    "shares": "33591309.41",
+    "value": "33591309.41",
+    "percent": "0.14"
+  },
+  {
+    "date": "7/7/2021",
+    "company": "INTERCONTINENTAL EXCHANGE IN",
+    "ticker": "ICE",
+    "cusip": "45866F104",
+    "shares": "19857.00",
+    "value": "2343126.00",
+    "percent": "0.01"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "TESLA INC",
+    "ticker": "TSLA",
+    "cusip": "88160R101",
+    "shares": "3600576.00",
+    "value": "2350492018.56",
+    "percent": "10.05"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "ROKU INC",
+    "ticker": "ROKU",
+    "cusip": "77543R102",
+    "shares": "3244870.00",
+    "value": "1363753963.60",
+    "percent": "5.83"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "TELADOC HEALTH INC",
+    "ticker": "TDOC",
+    "cusip": "87918A105",
+    "shares": "8591887.00",
+    "value": "1357002632.78",
+    "percent": "5.80"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "ZOOM VIDEO COMMUNICATIONS-A",
+    "ticker": "ZM",
+    "cusip": "98980L101",
+    "shares": "2796650.00",
+    "value": "1079534866.50",
+    "percent": "4.61"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "SHOPIFY INC - CLASS A",
+    "ticker": "SHOP",
+    "cusip": "82509L107",
+    "shares": "725557.00",
+    "value": "1061736580.38",
+    "percent": "4.54"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "SQUARE INC - A",
+    "ticker": "SQ",
+    "cusip": "852234103",
+    "shares": "4444973.00",
+    "value": "1048569130.70",
+    "percent": "4.48"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "COINBASE GLOBAL INC -CLASS A",
+    "ticker": "COIN",
+    "cusip": "19260Q107",
+    "shares": "3816583.00",
+    "value": "932353061.07",
+    "percent": "3.98"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "TWILIO INC - A",
+    "ticker": "TWLO",
+    "cusip": "90138F102",
+    "shares": "2305678.00",
+    "value": "887340178.30",
+    "percent": "3.79"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "SPOTIFY TECHNOLOGY SA",
+    "ticker": "SPOT",
+    "cusip": "L8681T102",
+    "shares": "3316559.00",
+    "value": "849536587.85",
+    "percent": "3.63"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "UNITY SOFTWARE INC",
+    "ticker": "U",
+    "cusip": "91332U101",
+    "shares": "7708891.00",
+    "value": "810821155.38",
+    "percent": "3.47"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "ZILLOW GROUP INC - C",
+    "ticker": "Z",
+    "cusip": "98954M200",
+    "shares": "6362448.00",
+    "value": "723855708.96",
+    "percent": "3.09"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "CRISPR THERAPEUTICS AG",
+    "ticker": "CRSP",
+    "cusip": "H17182108",
+    "shares": "4925794.00",
+    "value": "713304229.14",
+    "percent": "3.05"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "INTELLIA THERAPEUTICS INC",
+    "ticker": "NTLA",
+    "cusip": "45826J105",
+    "shares": "4422033.00",
+    "value": "675377100.09",
+    "percent": "2.89"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "EXACT SCIENCES CORP",
+    "ticker": "EXAS",
+    "cusip": "30063P105",
+    "shares": "5705386.00",
+    "value": "666617300.24",
+    "percent": "2.85"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "DOCUSIGN INC",
+    "ticker": "DOCU",
+    "cusip": "256163106",
+    "shares": "2115513.00",
+    "value": "610833223.62",
+    "percent": "2.61"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "PALANTIR TECHNOLOGIES INC-A",
+    "ticker": "PLTR",
+    "cusip": "69608A108",
+    "shares": "22414520.00",
+    "value": "517327121.60",
+    "percent": "2.21"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "10X GENOMICS INC-CLASS A",
+    "ticker": "TXG",
+    "cusip": "88025U109",
+    "shares": "2689247.00",
+    "value": "506250747.75",
+    "percent": "2.16"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "BEAM THERAPEUTICS INC",
+    "ticker": "BEAM",
+    "cusip": "07373V105",
+    "shares": "4584778.00",
+    "value": "449537482.90",
+    "percent": "1.92"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "UIPATH INC - CLASS A",
+    "ticker": "PATH",
+    "cusip": "90364P105",
+    "shares": "6492794.00",
+    "value": "443977253.72",
+    "percent": "1.90"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "TWITTER INC",
+    "ticker": "TWTR",
+    "cusip": "90184L102",
+    "shares": "6555975.00",
+    "value": "438135809.25",
+    "percent": "1.87"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "DRAFTKINGS INC - CL A",
+    "ticker": "DKNG",
+    "cusip": "26142R104",
+    "shares": "8723787.00",
+    "value": "421009960.62",
+    "percent": "1.80"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "INVITAE CORP",
+    "ticker": "NVTA",
+    "cusip": "46185L103",
+    "shares": "12683497.00",
+    "value": "393315241.97",
+    "percent": "1.68"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "SEA LTD-ADR",
+    "ticker": "SE",
+    "cusip": "81141R100",
+    "shares": "1376044.00",
+    "value": "367403748.00",
+    "percent": "1.57"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "FATE THERAPEUTICS INC",
+    "ticker": "FATE",
+    "cusip": "31189P102",
+    "shares": "3925452.00",
+    "value": "342338668.92",
+    "percent": "1.46"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "IRIDIUM COMMUNICATIONS INC",
+    "ticker": "IRDM",
+    "cusip": "46269C102",
+    "shares": "8290213.00",
+    "value": "318427081.33",
+    "percent": "1.36"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "TWIST BIOSCIENCE CORP",
+    "ticker": "TWST",
+    "cusip": "90184D100",
+    "shares": "2161079.00",
+    "value": "273290050.34",
+    "percent": "1.17"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "NINTENDO CO LTD-UNSPONS ADR",
+    "ticker": "NTDOY",
+    "cusip": "654445303",
+    "shares": "3775013.00",
+    "value": "268969676.25",
+    "percent": "1.15"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "SKILLZ INC",
+    "ticker": "SKLZ",
+    "cusip": "83067L109",
+    "shares": "15367242.00",
+    "value": "266160631.44",
+    "percent": "1.14"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "IOVANCE BIOTHERAPEUTICS INC",
+    "ticker": "IOVA",
+    "cusip": "462260100",
+    "shares": "9951440.00",
+    "value": "252069975.20",
+    "percent": "1.08"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "TUSIMPLE HOLDINGS INC - A",
+    "ticker": "TSP",
+    "cusip": "90089L108",
+    "shares": "4580788.00",
+    "value": "247912246.56",
+    "percent": "1.06"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "2U INC",
+    "ticker": "TWOU",
+    "cusip": "90214J101",
+    "shares": "5516885.00",
+    "value": "238936289.35",
+    "percent": "1.02"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "PAGERDUTY INC",
+    "ticker": "PD",
+    "cusip": "69553P100",
+    "shares": "5589933.00",
+    "value": "239025535.08",
+    "percent": "1.02"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "TERADYNE INC",
+    "ticker": "TER",
+    "cusip": "880770102",
+    "shares": "1923064.00",
+    "value": "236190720.48",
+    "percent": "1.01"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "EDITAS MEDICINE INC",
+    "ticker": "EDIT",
+    "cusip": "28106W103",
+    "shares": "4558267.00",
+    "value": "210683100.74",
+    "percent": "0.90"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "PACIFIC BIOSCIENCES OF CALIF",
+    "ticker": "PACB",
+    "cusip": "69404D108",
+    "shares": "6332179.00",
+    "value": "198387168.07",
+    "percent": "0.85"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "PROTO LABS INC",
+    "ticker": "PRLB",
+    "cusip": "743713109",
+    "shares": "2129472.00",
+    "value": "192717216.00",
+    "percent": "0.82"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "BERKELEY LIGHTS INC",
+    "ticker": "BLI",
+    "cusip": "084310101",
+    "shares": "3507701.00",
+    "value": "162371479.29",
+    "percent": "0.69"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "TENCENT HOLDINGS LTD-UNS ADR",
+    "ticker": "TCEHY",
+    "cusip": "88032Q109",
+    "shares": "2161237.00",
+    "value": "146339302.38",
+    "percent": "0.63"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "TRIMBLE INC",
+    "ticker": "TRMB",
+    "cusip": "896239100",
+    "shares": "1700911.00",
+    "value": "138607237.39",
+    "percent": "0.59"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "VERACYTE INC",
+    "ticker": "VCYT",
+    "cusip": "92337F107",
+    "shares": "3319149.00",
+    "value": "125795747.10",
+    "percent": "0.54"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "PURE STORAGE INC - CLASS A",
+    "ticker": "PSTG",
+    "cusip": "74624M102",
+    "shares": "6743139.00",
+    "value": "127040738.76",
+    "percent": "0.54"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "NANOSTRING TECHNOLOGIES INC",
+    "ticker": "NSTG",
+    "cusip": "63009R109",
+    "shares": "1897474.00",
+    "value": "117681337.48",
+    "percent": "0.50"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "SERES THERAPEUTICS INC",
+    "ticker": "MCRB",
+    "cusip": "81750R102",
+    "shares": "5504950.00",
+    "value": "113071673.00",
+    "percent": "0.48"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "STRATASYS LTD",
+    "ticker": "SSYS",
+    "cusip": "M85548101",
+    "shares": "4434434.00",
+    "value": "100085175.38",
+    "percent": "0.43"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "MATERIALISE NV-ADR",
+    "ticker": "MTLS",
+    "cusip": "57667T100",
+    "shares": "3950052.00",
+    "value": "92154713.16",
+    "percent": "0.39"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "KE HOLDINGS INC-ADR",
+    "ticker": "BEKE",
+    "cusip": "482497104",
+    "shares": "2186091.00",
+    "value": "84929635.35",
+    "percent": "0.36"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "NOVARTIS AG-SPONSORED ADR",
+    "ticker": "NVS",
+    "cusip": "66987V109",
+    "shares": "851586.00",
+    "value": "78643967.10",
+    "percent": "0.34"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "CERUS CORP",
+    "ticker": "CERS",
+    "cusip": "157085101",
+    "shares": "13055542.00",
+    "value": "68541595.50",
+    "percent": "0.29"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "COMPUGEN LTD",
+    "ticker": "CGEN",
+    "cusip": "M25722105",
+    "shares": "6868603.00",
+    "value": "51583208.53",
+    "percent": "0.22"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "DREYFUS GOVT CASH MAN INS",
+    "ticker": "",
+    "cusip": "X9USDDGCM",
+    "shares": "34249644.53",
+    "value": "34249644.53",
+    "percent": "0.15"
+  },
+  {
+    "date": "7/8/2021",
+    "company": "INTERCONTINENTAL EXCHANGE IN",
+    "ticker": "ICE",
+    "cusip": "45866F104",
+    "shares": "19808.00",
+    "value": "2338532.48",
+    "percent": "0.01"
   }
 ]

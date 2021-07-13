@@ -1,4 +1,9 @@
 # :rocket: ARK Investing Timeline
+
+7/12/2021 
+- ARKW: add a new ticker **CND** 
+- ARKW: add a new ticker **KVSB** 
+- ARKF: add a new ticker **FTCH** 
 - ARKX: remove a ticker **DSY** 
 - ARKX: add a new ticker **DSY** 
 

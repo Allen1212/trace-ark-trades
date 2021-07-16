@@ -1,5 +1,10 @@
 # :rocket: ARK Investing Timeline
 
+7/15/2021 
+- ARKQ: remove a ticker **AONE** 
+- ARKQ: add a new ticker **MKFG** 
+- ARKK: remove a ticker **ICE** 
+
 7/12/2021 
 - ARKW: add a new ticker **CND** 
 - ARKW: add a new ticker **KVSB** 

@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+7/19/2021 
+- ARKQ: remove a ticker **GLEO** 
+
 7/15/2021 
 - ARKQ: remove a ticker **AONE** 
 - ARKQ: add a new ticker **MKFG** 

@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+7/22/2021 
+- ARKW: remove a ticker **HUYA** 
+
 7/19/2021 
 - ARKQ: remove a ticker **GLEO** 
 

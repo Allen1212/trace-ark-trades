@@ -1,5 +1,12 @@
 # :rocket: ARK Investing Timeline
 
+7/23/2021 
+- ARKK: remove a ticker **TCEHY** 
+- ARKK: remove a ticker **NVS** 
+- ARKG: remove a ticker **CMLF** 
+- ARKG: add a new ticker **CRBU** 
+- ARKG: add a new ticker **SMFR** 
+
 7/22/2021 
 - ARKW: remove a ticker **HUYA** 
 

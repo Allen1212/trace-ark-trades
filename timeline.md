@@ -1,5 +1,9 @@
 # :rocket: ARK Investing Timeline
 
+7/26/2021 
+- ARKQ: remove a ticker **RAVN** 
+- ARKG: remove a ticker **ABBV** 
+
 7/23/2021 
 - ARKK: remove a ticker **TCEHY** 
 - ARKK: remove a ticker **NVS** 

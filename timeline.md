@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+7/27/2021 
+- ARKX: add a new ticker **MKFG** 
+
 7/26/2021 
 - ARKQ: remove a ticker **RAVN** 
 - ARKG: remove a ticker **ABBV** 

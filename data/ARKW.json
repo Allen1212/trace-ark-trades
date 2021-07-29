@@ -91825,5 +91825,455 @@
     "shares": "98.00",
     "value": "25742.64",
     "percent": "0.00"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "TESLA INC",
+    "ticker": "TSLA",
+    "cusip": "88160R101",
+    "shares": "898972.00",
+    "value": "581616904.56",
+    "percent": "9.87"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "TWITTER INC",
+    "ticker": "TWTR",
+    "cusip": "90184L102",
+    "shares": "4540213.00",
+    "value": "317633301.48",
+    "percent": "5.39"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "GRAYSCALE BITCOIN TRUST BTC",
+    "ticker": "GBTC",
+    "cusip": "389637109",
+    "shares": "8895414.00",
+    "value": "312940664.52",
+    "percent": "5.31"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "TELADOC HEALTH INC",
+    "ticker": "TDOC",
+    "cusip": "87918A105",
+    "shares": "2015277.00",
+    "value": "305939201.37",
+    "percent": "5.19"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "SHOPIFY INC - CLASS A",
+    "ticker": "SHOP",
+    "cusip": "82509L107",
+    "shares": "189486.00",
+    "value": "291429468.00",
+    "percent": "4.95"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "SQUARE INC - A",
+    "ticker": "SQ",
+    "cusip": "852234103",
+    "shares": "1100529.00",
+    "value": "284607804.69",
+    "percent": "4.83"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "COINBASE GLOBAL INC -CLASS A",
+    "ticker": "COIN",
+    "cusip": "19260Q107",
+    "shares": "1099757.00",
+    "value": "265866254.75",
+    "percent": "4.51"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "TWILIO INC - A",
+    "ticker": "TWLO",
+    "cusip": "90138F102",
+    "shares": "608573.00",
+    "value": "239777762.00",
+    "percent": "4.07"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "UNITY SOFTWARE INC",
+    "ticker": "U",
+    "cusip": "91332U101",
+    "shares": "2196945.00",
+    "value": "238917768.75",
+    "percent": "4.05"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "ROKU INC",
+    "ticker": "ROKU",
+    "cusip": "77543R102",
+    "shares": "455065.00",
+    "value": "213129692.75",
+    "percent": "3.62"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "ZOOM VIDEO COMMUNICATIONS-A",
+    "ticker": "ZM",
+    "cusip": "98980L101",
+    "shares": "569622.00",
+    "value": "210469632.78",
+    "percent": "3.57"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "SPOTIFY TECHNOLOGY SA",
+    "ticker": "SPOT",
+    "cusip": "L8681T102",
+    "shares": "916872.00",
+    "value": "204755855.04",
+    "percent": "3.48"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "PELOTON INTERACTIVE INC-A",
+    "ticker": "PTON",
+    "cusip": "70614W100",
+    "shares": "1621003.00",
+    "value": "197632685.76",
+    "percent": "3.35"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "TRADE DESK INC/THE -CLASS A",
+    "ticker": "TTD",
+    "cusip": "88339J105",
+    "shares": "2093168.00",
+    "value": "179091454.08",
+    "percent": "3.04"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "DRAFTKINGS INC - CL A",
+    "ticker": "DKNG",
+    "cusip": "26142R104",
+    "shares": "3243635.00",
+    "value": "164290112.75",
+    "percent": "2.79"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "ZILLOW GROUP INC - C",
+    "ticker": "Z",
+    "cusip": "98954M200",
+    "shares": "1232235.00",
+    "value": "135853908.75",
+    "percent": "2.31"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "SEA LTD-ADR",
+    "ticker": "SE",
+    "cusip": "81141R100",
+    "shares": "414671.00",
+    "value": "114258447.34",
+    "percent": "1.94"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "PALANTIR TECHNOLOGIES INC-A",
+    "ticker": "PLTR",
+    "cusip": "69608A108",
+    "shares": "4588520.00",
+    "value": "103517011.20",
+    "percent": "1.76"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "SKILLZ INC",
+    "ticker": "SKLZ",
+    "cusip": "83067L109",
+    "shares": "7005167.00",
+    "value": "102835851.56",
+    "percent": "1.75"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "UIPATH INC - CLASS A",
+    "ticker": "PATH",
+    "cusip": "90364P105",
+    "shares": "1628265.00",
+    "value": "102678390.90",
+    "percent": "1.74"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "ROBLOX CORP -CLASS A",
+    "ticker": "RBLX",
+    "cusip": "771049103",
+    "shares": "1258778.00",
+    "value": "99607103.14",
+    "percent": "1.69"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "MERCADOLIBRE INC",
+    "ticker": "MELI",
+    "cusip": "58733R102",
+    "shares": "60552.00",
+    "value": "99125440.56",
+    "percent": "1.68"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "OKTA INC",
+    "ticker": "OKTA",
+    "cusip": "679295105",
+    "shares": "351247.00",
+    "value": "87987373.50",
+    "percent": "1.49"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "ETSY INC",
+    "ticker": "ETSY",
+    "cusip": "29786A106",
+    "shares": "398737.00",
+    "value": "80919686.78",
+    "percent": "1.37"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "CLOUDFLARE INC - CLASS A",
+    "ticker": "NET",
+    "cusip": "18915M107",
+    "shares": "589054.00",
+    "value": "70539216.50",
+    "percent": "1.20"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "SNAP INC - A",
+    "ticker": "SNAP",
+    "cusip": "83304A106",
+    "shares": "917770.00",
+    "value": "69897363.20",
+    "percent": "1.19"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "ADYEN NV-UNSPON ADR",
+    "ticker": "ADYEY",
+    "cusip": "00783V104",
+    "shares": "1156474.00",
+    "value": "63837364.80",
+    "percent": "1.08"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "PAYPAL HOLDINGS INC",
+    "ticker": "PYPL",
+    "cusip": "70450Y103",
+    "shares": "208733.00",
+    "value": "63033191.34",
+    "percent": "1.07"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "WALT DISNEY CO/THE",
+    "ticker": "DIS",
+    "cusip": "254687106",
+    "shares": "353256.00",
+    "value": "63268149.60",
+    "percent": "1.07"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "DOCUSIGN INC",
+    "ticker": "DOCU",
+    "cusip": "256163106",
+    "shares": "198070.00",
+    "value": "60375697.40",
+    "percent": "1.02"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "SPLUNK INC",
+    "ticker": "SPLK",
+    "cusip": "848637104",
+    "shares": "412164.00",
+    "value": "58700396.88",
+    "percent": "1.00"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "FARFETCH LTD-CLASS A",
+    "ticker": "FTCH",
+    "cusip": "30744W107",
+    "shares": "1181934.00",
+    "value": "58505733.00",
+    "percent": "0.99"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "2U INC",
+    "ticker": "TWOU",
+    "cusip": "90214J101",
+    "shares": "1265851.00",
+    "value": "58178511.96",
+    "percent": "0.99"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "VUZIX CORP",
+    "ticker": "VUZI",
+    "cusip": "92921W300",
+    "shares": "3765925.00",
+    "value": "56526534.25",
+    "percent": "0.96"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "PAGERDUTY INC",
+    "ticker": "PD",
+    "cusip": "69553P100",
+    "shares": "1333251.00",
+    "value": "54636625.98",
+    "percent": "0.93"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "LENDINGCLUB CORP",
+    "ticker": "LC",
+    "cusip": "52603A208",
+    "shares": "3192006.00",
+    "value": "51870097.50",
+    "percent": "0.88"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "NANO DIMENSION LTD - ADR",
+    "ticker": "NNDM",
+    "cusip": "63008G203",
+    "shares": "7433229.00",
+    "value": "48390320.79",
+    "percent": "0.82"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "NETFLIX INC",
+    "ticker": "NFLX",
+    "cusip": "64110L106",
+    "shares": "89385.00",
+    "value": "46417630.50",
+    "percent": "0.79"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "VERACYTE INC",
+    "ticker": "VCYT",
+    "cusip": "92337F107",
+    "shares": "1120325.00",
+    "value": "44196821.25",
+    "percent": "0.75"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "KHOSLA VENTURES ACQUISITIO-A",
+    "ticker": "KVSB",
+    "cusip": "482505104",
+    "shares": "3831564.00",
+    "value": "40537947.12",
+    "percent": "0.69"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "CONCORD ACQUISITION CORP -A",
+    "ticker": "CND",
+    "cusip": "206071102",
+    "shares": "2802032.00",
+    "value": "28496665.44",
+    "percent": "0.48"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "DREYFUS GOVT CASH MAN INS",
+    "ticker": "",
+    "cusip": "X9USDDGCM",
+    "shares": "16545345.08",
+    "value": "16545345.08",
+    "percent": "0.28"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "JD.COM INC-ADR",
+    "ticker": "JD",
+    "cusip": "47215P106",
+    "shares": "14293.00",
+    "value": "1004512.04",
+    "percent": "0.02"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "TENCENT HOLDINGS LTD-UNS ADR",
+    "ticker": "TCEHY",
+    "cusip": "88032Q109",
+    "shares": "19033.00",
+    "value": "1174912.80",
+    "percent": "0.02"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "KANZHUN LTD",
+    "ticker": "BZ",
+    "cusip": "48553T106",
+    "shares": "14253.00",
+    "value": "486312.36",
+    "percent": "0.01"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "PINDUODUO INC-ADR",
+    "ticker": "PDD",
+    "cusip": "722304102",
+    "shares": "4195.00",
+    "value": "385478.55",
+    "percent": "0.01"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "OPENDOOR TECHNOLOGIES INC",
+    "ticker": "OPEN",
+    "cusip": "683712103",
+    "shares": "68.00",
+    "value": "1037.00",
+    "percent": "0.00"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "NINTENDO CO LTD-UNSPONS ADR",
+    "ticker": "NTDOY",
+    "cusip": "654445303",
+    "shares": "1281.00",
+    "value": "86915.85",
+    "percent": "0.00"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "SNOWFLAKE INC-CLASS A",
+    "ticker": "SNOW",
+    "cusip": "833445109",
+    "shares": "98.00",
+    "value": "26397.28",
+    "percent": "0.00"
+  },
+  {
+    "date": "7/28/2021",
+    "company": "KE HOLDINGS INC-ADR",
+    "ticker": "BEKE",
+    "cusip": "482497104",
+    "shares": "86.00",
+    "value": "2305.66",
+    "percent": "0.00"
   }
 ]

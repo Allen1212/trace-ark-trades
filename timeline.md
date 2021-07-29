@@ -1,5 +1,10 @@
 # :rocket: ARK Investing Timeline
 
+7/28/2021 
+- ARKX: remove a ticker **JD** 
+- ARKX: remove a ticker **TCEHY** 
+- ARKK: remove a ticker **PSTG** 
+
 7/27/2021 
 - ARKX: add a new ticker **MKFG** 
 

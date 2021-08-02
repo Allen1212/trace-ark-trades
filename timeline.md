@@ -1,5 +1,10 @@
 # :rocket: ARK Investing Timeline
 
+7/30/2021 
+- ARKW: remove a ticker **OPEN** 
+- ARKK: remove a ticker **BEKE** 
+- ARKF: remove a ticker **BEKE** 
+
 7/29/2021 
 - ARKW: remove a ticker **BEKE** 
 - ARKW: add a new ticker **HOOD** 

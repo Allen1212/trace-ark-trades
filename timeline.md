@@ -1,5 +1,11 @@
 # :rocket: ARK Investing Timeline
 
+8/2/2021 
+- ARKW: remove a ticker **BZ** 
+- ARKW: remove a ticker **PDD** 
+- ARKW: remove a ticker **TCEHY** 
+- ARKF: add a new ticker **ETSY** 
+
 7/30/2021 
 - ARKW: remove a ticker **OPEN** 
 - ARKK: remove a ticker **BEKE** 

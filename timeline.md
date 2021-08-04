@@ -1,5 +1,11 @@
 # :rocket: ARK Investing Timeline
 
+8/3/2021 
+- ARKX: remove a ticker **RAVN** 
+- ARKQ: remove a ticker **BZ** 
+- ARKG: add a new ticker **SRNG** 
+- ARKF: remove a ticker **SCHW** 
+
 8/2/2021 
 - ARKW: remove a ticker **BZ** 
 - ARKW: remove a ticker **PDD** 

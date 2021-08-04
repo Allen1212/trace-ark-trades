@@ -1,0 +1,7 @@
+//@version=4
+study("SRNG-tracker", overlay=true, max_labels_count=500)
+etf_type = input("ALL", title="ETF", options=["ARKG","ALL"])
+if etf_type == "ALL"
+    label.new(timestamp(2021, 8, 3), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+if etf_type == "ARKG"
+    label.new(timestamp(2021, 8, 3), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 214,751\n Weight(%): 0.02", style=label.style_labelup, color=color.green)

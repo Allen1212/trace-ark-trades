@@ -1,0 +1,7 @@
+//@version=4
+study("LPSN-tracker", overlay=true, max_labels_count=500)
+etf_type = input("ALL", title="ETF", options=["ARKW","ALL"])
+if etf_type == "ALL"
+    label.new(timestamp(2021, 8, 4), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+if etf_type == "ARKW"
+    label.new(timestamp(2021, 8, 4), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 251,511\n Weight(%): 0.26", style=label.style_labelup, color=color.green)

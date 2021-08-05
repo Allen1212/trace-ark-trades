@@ -1,5 +1,9 @@
 # :rocket: ARK Investing Timeline
 
+8/4/2021 
+- ARKW: add a new ticker **LPSN** 
+- ARKQ: remove a ticker **PCAR** 
+
 8/3/2021 
 - ARKX: remove a ticker **RAVN** 
 - ARKQ: remove a ticker **BZ** 

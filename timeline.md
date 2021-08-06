@@ -1,5 +1,11 @@
 # :rocket: ARK Investing Timeline
 
+8/5/2021 
+- ARKW: remove a ticker **JD** 
+- ARKW: add a new ticker **GENI** 
+- ARKQ: remove a ticker **TCEHY** 
+- ARKK: add a new ticker **SRNG** 
+
 8/4/2021 
 - ARKW: add a new ticker **LPSN** 
 - ARKQ: remove a ticker **PCAR** 

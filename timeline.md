@@ -1,5 +1,11 @@
 # :rocket: ARK Investing Timeline
 
+8/12/2021 
+- ARKX: add a new ticker **PLTR** 
+- ARKQ: add a new ticker **PLTR** 
+- ARKG: add a new ticker **PLTR** 
+- ARKF: add a new ticker **PLTR** 
+
 8/11/2021 
 - ARKX: remove a ticker **RTP** 
 - ARKX: add a new ticker **JOBY** 

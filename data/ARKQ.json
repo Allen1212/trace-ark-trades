@@ -83113,5 +83113,761 @@
     "shares": "142854.00",
     "value": "1168545.72",
     "percent": "0.04"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "TESLA INC",
+    "ticker": "TSLA",
+    "cusip": "88160R101",
+    "shares": "465075.00",
+    "value": "333537837.75",
+    "percent": "12.19"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "TRIMBLE INC",
+    "ticker": "TRMB",
+    "cusip": "896239100",
+    "shares": "2224067.00",
+    "value": "197719556.30",
+    "percent": "7.23"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "UNITY SOFTWARE INC",
+    "ticker": "U",
+    "cusip": "91332U101",
+    "shares": "1285769.00",
+    "value": "165697051.03",
+    "percent": "6.06"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "KRATOS DEFENSE & SECURITY",
+    "ticker": "KTOS",
+    "cusip": "50077B207",
+    "shares": "7201084.00",
+    "value": "160296129.84",
+    "percent": "5.86"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "UIPATH INC - CLASS A",
+    "ticker": "PATH",
+    "cusip": "90364P105",
+    "shares": "2368682.00",
+    "value": "146858284.00",
+    "percent": "5.37"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "IRIDIUM COMMUNICATIONS INC",
+    "ticker": "IRDM",
+    "cusip": "46269C102",
+    "shares": "3553672.00",
+    "value": "144492303.52",
+    "percent": "5.28"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "ALPHABET INC-CL C",
+    "ticker": "GOOG",
+    "cusip": "02079K107",
+    "shares": "49014.00",
+    "value": "135676633.68",
+    "percent": "4.96"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "LOCKHEED MARTIN CORP",
+    "ticker": "LMT",
+    "cusip": "539830109",
+    "shares": "263419.00",
+    "value": "94298733.62",
+    "percent": "3.45"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "JD.COM INC-ADR",
+    "ticker": "JD",
+    "cusip": "47215P106",
+    "shares": "1165116.00",
+    "value": "81395003.76",
+    "percent": "2.98"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "DEERE & CO",
+    "ticker": "DE",
+    "cusip": "244199105",
+    "shares": "207066.00",
+    "value": "79513344.00",
+    "percent": "2.91"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "3D SYSTEMS CORP",
+    "ticker": "DDD",
+    "cusip": "88554D205",
+    "shares": "2510269.00",
+    "value": "75659507.66",
+    "percent": "2.77"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "KOMATSU LTD -SPONS ADR",
+    "ticker": "KMTUY",
+    "cusip": "500458401",
+    "shares": "2645340.00",
+    "value": "67191636.00",
+    "percent": "2.46"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "TERADYNE INC",
+    "ticker": "TER",
+    "cusip": "880770102",
+    "shares": "566575.00",
+    "value": "67280781.25",
+    "percent": "2.46"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "BAIDU INC - SPON ADR",
+    "ticker": "BIDU",
+    "cusip": "056752108",
+    "shares": "436898.00",
+    "value": "66605100.10",
+    "percent": "2.44"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "MAGNA INTERNATIONAL INC",
+    "ticker": "MGA",
+    "cusip": "559222401",
+    "shares": "745779.00",
+    "value": "64092247.26",
+    "percent": "2.34"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "TUSIMPLE HOLDINGS INC - A",
+    "ticker": "TSP",
+    "cusip": "90089L108",
+    "shares": "1850305.00",
+    "value": "56748854.35",
+    "percent": "2.07"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "NXP SEMICONDUCTORS NV",
+    "ticker": "NXPI",
+    "cusip": "N6596X109",
+    "shares": "262066.00",
+    "value": "56412327.16",
+    "percent": "2.06"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "CATERPILLAR INC",
+    "ticker": "CAT",
+    "cusip": "149123101",
+    "shares": "230143.00",
+    "value": "50302355.51",
+    "percent": "1.84"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "AEROVIRONMENT INC",
+    "ticker": "AVAV",
+    "cusip": "008073108",
+    "shares": "459703.00",
+    "value": "46370241.61",
+    "percent": "1.70"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "NIU TECHNOLOGIES-SPONS ADR",
+    "ticker": "NIU",
+    "cusip": "65481N100",
+    "shares": "2155589.00",
+    "value": "45849378.03",
+    "percent": "1.68"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "NANO DIMENSION LTD - ADR",
+    "ticker": "NNDM",
+    "cusip": "63008G203",
+    "shares": "7235772.00",
+    "value": "41822762.16",
+    "percent": "1.53"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "MARKFORGED HOLDING CORP",
+    "ticker": "MKFG",
+    "cusip": "57064N102",
+    "shares": "4174887.00",
+    "value": "39369184.41",
+    "percent": "1.44"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "TELEDYNE TECHNOLOGIES INC",
+    "ticker": "TDY",
+    "cusip": "879360105",
+    "shares": "85574.00",
+    "value": "38966120.90",
+    "percent": "1.42"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "INTUITIVE SURGICAL INC",
+    "ticker": "ISRG",
+    "cusip": "46120E602",
+    "shares": "38647.00",
+    "value": "38764486.88",
+    "percent": "1.42"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "SYNOPSYS INC",
+    "ticker": "SNPS",
+    "cusip": "871607107",
+    "shares": "124550.00",
+    "value": "36508096.00",
+    "percent": "1.33"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "ELBIT SYSTEMS LTD",
+    "ticker": "ESLT",
+    "cusip": "M3760D101",
+    "shares": "248741.00",
+    "value": "35448079.91",
+    "percent": "1.30"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "2U INC",
+    "ticker": "TWOU",
+    "cusip": "90214J101",
+    "shares": "869657.00",
+    "value": "32472992.38",
+    "percent": "1.19"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "ANSYS INC",
+    "ticker": "ANSS",
+    "cusip": "03662Q105",
+    "shares": "88495.00",
+    "value": "32087402.05",
+    "percent": "1.17"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "MATERIALISE NV-ADR",
+    "ticker": "MTLS",
+    "cusip": "57667T100",
+    "shares": "1480691.00",
+    "value": "31272193.92",
+    "percent": "1.14"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "VUZIX CORP",
+    "ticker": "VUZI",
+    "cusip": "92921W300",
+    "shares": "2440387.00",
+    "value": "29821529.14",
+    "percent": "1.09"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "NVIDIA CORP",
+    "ticker": "NVDA",
+    "cusip": "67066G104",
+    "shares": "140592.00",
+    "value": "28382712.96",
+    "percent": "1.04"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "ALIBABA GROUP HOLDING-SP ADR",
+    "ticker": "BABA",
+    "cusip": "01609W102",
+    "shares": "147806.00",
+    "value": "27879167.72",
+    "percent": "1.02"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "ATLAS CREST INVESTMENT COR-A",
+    "ticker": "ACIC",
+    "cusip": "049284102",
+    "shares": "2805546.00",
+    "value": "28027404.54",
+    "percent": "1.02"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "BYD CO LTD-UNSPONSORED ADR",
+    "ticker": "BYDDY",
+    "cusip": "05606L100",
+    "shares": "396218.00",
+    "value": "27755070.90",
+    "percent": "1.01"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "BLADE AIR MOBILITY INC",
+    "ticker": "BLDE",
+    "cusip": "092667104",
+    "shares": "3809390.00",
+    "value": "26970481.20",
+    "percent": "0.99"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "JAWS SPITFIRE ACQUISITION-A",
+    "ticker": "SPFR",
+    "cusip": "G50740102",
+    "shares": "2714568.00",
+    "value": "27064242.96",
+    "percent": "0.99"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "STRATASYS LTD",
+    "ticker": "SSYS",
+    "cusip": "M85548101",
+    "shares": "1068668.00",
+    "value": "23596189.44",
+    "percent": "0.86"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "PROTO LABS INC",
+    "ticker": "PRLB",
+    "cusip": "743713109",
+    "shares": "187302.00",
+    "value": "14796858.00",
+    "percent": "0.54"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "PALANTIR TECHNOLOGIES INC-A",
+    "ticker": "PLTR",
+    "cusip": "69608A108",
+    "shares": "558226.00",
+    "value": "13899827.40",
+    "percent": "0.51"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "EXONE CO/THE",
+    "ticker": "XONE",
+    "cusip": "302104104",
+    "shares": "554532.00",
+    "value": "13441855.68",
+    "percent": "0.49"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "DREYFUS GOVT CASH MAN INS",
+    "ticker": "",
+    "cusip": "X9USDDGCM",
+    "shares": "9644371.79",
+    "value": "9644371.79",
+    "percent": "0.35"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "ORGANOVO HOLDINGS INC",
+    "ticker": "ONVO ",
+    "cusip": "68620A203",
+    "shares": "142642.00",
+    "value": "1112607.60",
+    "percent": "0.04"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "TESLA INC",
+    "ticker": "TSLA",
+    "cusip": "88160R101",
+    "shares": "465075.00",
+    "value": "333537837.75",
+    "percent": "12.19"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "TRIMBLE INC",
+    "ticker": "TRMB",
+    "cusip": "896239100",
+    "shares": "2224067.00",
+    "value": "197719556.30",
+    "percent": "7.23"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "UNITY SOFTWARE INC",
+    "ticker": "U",
+    "cusip": "91332U101",
+    "shares": "1285769.00",
+    "value": "165697051.03",
+    "percent": "6.06"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "KRATOS DEFENSE & SECURITY",
+    "ticker": "KTOS",
+    "cusip": "50077B207",
+    "shares": "7201084.00",
+    "value": "160296129.84",
+    "percent": "5.86"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "UIPATH INC - CLASS A",
+    "ticker": "PATH",
+    "cusip": "90364P105",
+    "shares": "2368682.00",
+    "value": "146858284.00",
+    "percent": "5.37"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "IRIDIUM COMMUNICATIONS INC",
+    "ticker": "IRDM",
+    "cusip": "46269C102",
+    "shares": "3553672.00",
+    "value": "144492303.52",
+    "percent": "5.28"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "ALPHABET INC-CL C",
+    "ticker": "GOOG",
+    "cusip": "02079K107",
+    "shares": "49014.00",
+    "value": "135676633.68",
+    "percent": "4.96"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "LOCKHEED MARTIN CORP",
+    "ticker": "LMT",
+    "cusip": "539830109",
+    "shares": "263419.00",
+    "value": "94298733.62",
+    "percent": "3.45"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "JD.COM INC-ADR",
+    "ticker": "JD",
+    "cusip": "47215P106",
+    "shares": "1165116.00",
+    "value": "81395003.76",
+    "percent": "2.98"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "DEERE & CO",
+    "ticker": "DE",
+    "cusip": "244199105",
+    "shares": "207066.00",
+    "value": "79513344.00",
+    "percent": "2.91"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "3D SYSTEMS CORP",
+    "ticker": "DDD",
+    "cusip": "88554D205",
+    "shares": "2510269.00",
+    "value": "75659507.66",
+    "percent": "2.77"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "KOMATSU LTD -SPONS ADR",
+    "ticker": "KMTUY",
+    "cusip": "500458401",
+    "shares": "2645340.00",
+    "value": "67191636.00",
+    "percent": "2.46"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "TERADYNE INC",
+    "ticker": "TER",
+    "cusip": "880770102",
+    "shares": "566575.00",
+    "value": "67280781.25",
+    "percent": "2.46"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "BAIDU INC - SPON ADR",
+    "ticker": "BIDU",
+    "cusip": "056752108",
+    "shares": "436898.00",
+    "value": "66605100.10",
+    "percent": "2.44"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "MAGNA INTERNATIONAL INC",
+    "ticker": "MGA",
+    "cusip": "559222401",
+    "shares": "745779.00",
+    "value": "64092247.26",
+    "percent": "2.34"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "TUSIMPLE HOLDINGS INC - A",
+    "ticker": "TSP",
+    "cusip": "90089L108",
+    "shares": "1850305.00",
+    "value": "56748854.35",
+    "percent": "2.07"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "NXP SEMICONDUCTORS NV",
+    "ticker": "NXPI",
+    "cusip": "N6596X109",
+    "shares": "262066.00",
+    "value": "56412327.16",
+    "percent": "2.06"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "CATERPILLAR INC",
+    "ticker": "CAT",
+    "cusip": "149123101",
+    "shares": "230143.00",
+    "value": "50302355.51",
+    "percent": "1.84"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "AEROVIRONMENT INC",
+    "ticker": "AVAV",
+    "cusip": "008073108",
+    "shares": "459703.00",
+    "value": "46370241.61",
+    "percent": "1.70"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "NIU TECHNOLOGIES-SPONS ADR",
+    "ticker": "NIU",
+    "cusip": "65481N100",
+    "shares": "2155589.00",
+    "value": "45849378.03",
+    "percent": "1.68"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "NANO DIMENSION LTD - ADR",
+    "ticker": "NNDM",
+    "cusip": "63008G203",
+    "shares": "7235772.00",
+    "value": "41822762.16",
+    "percent": "1.53"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "MARKFORGED HOLDING CORP",
+    "ticker": "MKFG",
+    "cusip": "57064N102",
+    "shares": "4174887.00",
+    "value": "39369184.41",
+    "percent": "1.44"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "TELEDYNE TECHNOLOGIES INC",
+    "ticker": "TDY",
+    "cusip": "879360105",
+    "shares": "85574.00",
+    "value": "38966120.90",
+    "percent": "1.42"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "INTUITIVE SURGICAL INC",
+    "ticker": "ISRG",
+    "cusip": "46120E602",
+    "shares": "38647.00",
+    "value": "38764486.88",
+    "percent": "1.42"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "SYNOPSYS INC",
+    "ticker": "SNPS",
+    "cusip": "871607107",
+    "shares": "124550.00",
+    "value": "36508096.00",
+    "percent": "1.33"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "ELBIT SYSTEMS LTD",
+    "ticker": "ESLT",
+    "cusip": "M3760D101",
+    "shares": "248741.00",
+    "value": "35448079.91",
+    "percent": "1.30"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "2U INC",
+    "ticker": "TWOU",
+    "cusip": "90214J101",
+    "shares": "869657.00",
+    "value": "32472992.38",
+    "percent": "1.19"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "ANSYS INC",
+    "ticker": "ANSS",
+    "cusip": "03662Q105",
+    "shares": "88495.00",
+    "value": "32087402.05",
+    "percent": "1.17"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "MATERIALISE NV-ADR",
+    "ticker": "MTLS",
+    "cusip": "57667T100",
+    "shares": "1480691.00",
+    "value": "31272193.92",
+    "percent": "1.14"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "VUZIX CORP",
+    "ticker": "VUZI",
+    "cusip": "92921W300",
+    "shares": "2440387.00",
+    "value": "29821529.14",
+    "percent": "1.09"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "NVIDIA CORP",
+    "ticker": "NVDA",
+    "cusip": "67066G104",
+    "shares": "140592.00",
+    "value": "28382712.96",
+    "percent": "1.04"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "ALIBABA GROUP HOLDING-SP ADR",
+    "ticker": "BABA",
+    "cusip": "01609W102",
+    "shares": "147806.00",
+    "value": "27879167.72",
+    "percent": "1.02"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "ATLAS CREST INVESTMENT COR-A",
+    "ticker": "ACIC",
+    "cusip": "049284102",
+    "shares": "2805546.00",
+    "value": "28027404.54",
+    "percent": "1.02"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "BYD CO LTD-UNSPONSORED ADR",
+    "ticker": "BYDDY",
+    "cusip": "05606L100",
+    "shares": "396218.00",
+    "value": "27755070.90",
+    "percent": "1.01"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "BLADE AIR MOBILITY INC",
+    "ticker": "BLDE",
+    "cusip": "092667104",
+    "shares": "3809390.00",
+    "value": "26970481.20",
+    "percent": "0.99"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "JAWS SPITFIRE ACQUISITION-A",
+    "ticker": "SPFR",
+    "cusip": "G50740102",
+    "shares": "2714568.00",
+    "value": "27064242.96",
+    "percent": "0.99"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "STRATASYS LTD",
+    "ticker": "SSYS",
+    "cusip": "M85548101",
+    "shares": "1068668.00",
+    "value": "23596189.44",
+    "percent": "0.86"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "PROTO LABS INC",
+    "ticker": "PRLB",
+    "cusip": "743713109",
+    "shares": "187302.00",
+    "value": "14796858.00",
+    "percent": "0.54"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "PALANTIR TECHNOLOGIES INC-A",
+    "ticker": "PLTR",
+    "cusip": "69608A108",
+    "shares": "558226.00",
+    "value": "13899827.40",
+    "percent": "0.51"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "EXONE CO/THE",
+    "ticker": "XONE",
+    "cusip": "302104104",
+    "shares": "554532.00",
+    "value": "13441855.68",
+    "percent": "0.49"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "DREYFUS GOVT CASH MAN INS",
+    "ticker": "",
+    "cusip": "X9USDDGCM",
+    "shares": "9644371.79",
+    "value": "9644371.79",
+    "percent": "0.35"
+  },
+  {
+    "date": "8/13/2021",
+    "company": "ORGANOVO HOLDINGS INC",
+    "ticker": "ONVO ",
+    "cusip": "68620A203",
+    "shares": "142642.00",
+    "value": "1112607.60",
+    "percent": "0.04"
   }
 ]

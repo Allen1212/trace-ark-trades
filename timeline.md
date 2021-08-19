@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+8/18/2021 
+- ARKG: add a new ticker **PFE** 
+
 8/12/2021 
 - ARKX: add a new ticker **PLTR** 
 - ARKQ: add a new ticker **PLTR** 

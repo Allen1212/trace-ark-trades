@@ -1,5 +1,9 @@
 # :rocket: ARK Investing Timeline
 
+8/25/2021 
+- ARKW: remove a ticker **NFLX** 
+- ARKF: remove a ticker **3690** 
+
 8/24/2021 
 - ARKX: remove a ticker **3690** 
 

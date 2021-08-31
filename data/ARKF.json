@@ -94165,5 +94165,383 @@
     "shares": "136.75",
     "value": "9.27",
     "percent": "0.00"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "SQUARE INC - A",
+    "ticker": "SQ",
+    "cusip": "852234103",
+    "shares": "1477913.00",
+    "value": "401874102.96",
+    "percent": "10.80"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "SHOPIFY INC - CLASS A",
+    "ticker": "SHOP",
+    "cusip": "82509L107",
+    "shares": "156332.00",
+    "value": "242158268.00",
+    "percent": "6.51"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "COINBASE GLOBAL INC -CLASS A",
+    "ticker": "COIN",
+    "cusip": "19260Q107",
+    "shares": "731516.00",
+    "value": "192139992.56",
+    "percent": "5.16"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "SEA LTD-ADR",
+    "ticker": "SE",
+    "cusip": "81141R100",
+    "shares": "562110.00",
+    "value": "186519340.20",
+    "percent": "5.01"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "ZILLOW GROUP INC - C",
+    "ticker": "Z",
+    "cusip": "98954M200",
+    "shares": "1886443.00",
+    "value": "181287172.30",
+    "percent": "4.87"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "PAYPAL HOLDINGS INC",
+    "ticker": "PYPL",
+    "cusip": "70450Y103",
+    "shares": "600116.00",
+    "value": "173115462.52",
+    "percent": "4.65"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "MERCADOLIBRE INC",
+    "ticker": "MELI",
+    "cusip": "58733R102",
+    "shares": "91170.00",
+    "value": "171299313.00",
+    "percent": "4.60"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "ADYEN NV",
+    "ticker": "ADYEN",
+    "cusip": "BZ1HM42",
+    "shares": "48858.00",
+    "value": "158494367.43",
+    "percent": "4.26"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "TWILIO INC - A",
+    "ticker": "TWLO",
+    "cusip": "90138F102",
+    "shares": "369842.00",
+    "value": "135613664.56",
+    "percent": "3.64"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "OPENDOOR TECHNOLOGIES INC",
+    "ticker": "OPEN",
+    "cusip": "683712103",
+    "shares": "6169385.00",
+    "value": "108334400.60",
+    "percent": "2.91"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "UIPATH INC - CLASS A",
+    "ticker": "PATH",
+    "cusip": "90364P105",
+    "shares": "1642304.00",
+    "value": "106010723.20",
+    "percent": "2.85"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "FACEBOOK INC-CLASS A",
+    "ticker": "FB",
+    "cusip": "30303M102",
+    "shares": "268150.00",
+    "value": "102073979.00",
+    "percent": "2.74"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "DOCUSIGN INC",
+    "ticker": "DOCU",
+    "cusip": "256163106",
+    "shares": "327832.00",
+    "value": "99542908.48",
+    "percent": "2.67"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "PINTEREST INC- CLASS A",
+    "ticker": "PINS",
+    "cusip": "72352L106",
+    "shares": "1680929.00",
+    "value": "94955679.21",
+    "percent": "2.55"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "TELADOC HEALTH INC",
+    "ticker": "TDOC",
+    "cusip": "87918A105",
+    "shares": "646595.00",
+    "value": "93303658.50",
+    "percent": "2.51"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "Z HOLDINGS CORP",
+    "ticker": "4689",
+    "cusip": "6084848",
+    "shares": "13924806.00",
+    "value": "88016837.27",
+    "percent": "2.36"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "JD.COM INC-ADR",
+    "ticker": "JD",
+    "cusip": "47215P106",
+    "shares": "1112968.00",
+    "value": "85353515.92",
+    "percent": "2.29"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "DRAFTKINGS INC - CL A",
+    "ticker": "DKNG",
+    "cusip": "26142R104",
+    "shares": "1343676.00",
+    "value": "79612803.00",
+    "percent": "2.14"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "INTUIT INC",
+    "ticker": "INTU",
+    "cusip": "461202103",
+    "shares": "134564.00",
+    "value": "76105361.48",
+    "percent": "2.04"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "SILVERGATE CAPITAL CORP-CL A",
+    "ticker": "SI",
+    "cusip": "82837P408",
+    "shares": "649487.00",
+    "value": "71852746.81",
+    "percent": "1.93"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "TCS GROUP HOLDING-GDR REG S",
+    "ticker": "TCS LI",
+    "cusip": "87238U203",
+    "shares": "779925.00",
+    "value": "69366529.50",
+    "percent": "1.86"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "STONECO LTD-A",
+    "ticker": "STNE",
+    "cusip": "G85158106",
+    "shares": "1350027.00",
+    "value": "66826336.50",
+    "percent": "1.80"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "LENDINGCLUB CORP",
+    "ticker": "LC",
+    "cusip": "52603A208",
+    "shares": "2324965.00",
+    "value": "66191753.55",
+    "percent": "1.78"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "INTERCONTINENTAL EXCHANGE IN",
+    "ticker": "ICE",
+    "cusip": "45866F104",
+    "shares": "523004.00",
+    "value": "62425757.44",
+    "percent": "1.68"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "PINDUODUO INC-ADR",
+    "ticker": "PDD",
+    "cusip": "722304102",
+    "shares": "650648.00",
+    "value": "61798547.04",
+    "percent": "1.66"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "BILL.COM HOLDINGS INC",
+    "ticker": "BILL",
+    "cusip": "090043100",
+    "shares": "206850.00",
+    "value": "58348248.00",
+    "percent": "1.57"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "WORKDAY INC-CLASS A",
+    "ticker": "WDAY",
+    "cusip": "98138H101",
+    "shares": "185662.00",
+    "value": "50383096.94",
+    "percent": "1.35"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "PALANTIR TECHNOLOGIES INC-A",
+    "ticker": "PLTR",
+    "cusip": "69608A108",
+    "shares": "1859616.00",
+    "value": "47903708.16",
+    "percent": "1.29"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "TENCENT HOLDINGS LTD-UNS ADR",
+    "ticker": "TCEHY",
+    "cusip": "88032Q109",
+    "shares": "766257.00",
+    "value": "44680445.67",
+    "percent": "1.20"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "ETSY INC",
+    "ticker": "ETSY",
+    "cusip": "29786A106",
+    "shares": "195447.00",
+    "value": "42550766.37",
+    "percent": "1.14"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "DISCOVERY LTD",
+    "ticker": "DSY",
+    "cusip": "6177878",
+    "shares": "4761959.00",
+    "value": "41047339.73",
+    "percent": "1.10"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "AMAZON.COM INC",
+    "ticker": "AMZN",
+    "cusip": "023135106",
+    "shares": "11690.00",
+    "value": "39998153.30",
+    "percent": "1.07"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "SNAP INC - A",
+    "ticker": "SNAP",
+    "cusip": "83304A106",
+    "shares": "516408.00",
+    "value": "38477560.08",
+    "percent": "1.03"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "FARFETCH LTD-CLASS A",
+    "ticker": "FTCH",
+    "cusip": "30744W107",
+    "shares": "912347.00",
+    "value": "37962758.67",
+    "percent": "1.02"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "ZHONGAN ONLINE P&C INSURAN-H",
+    "ticker": "6060",
+    "cusip": "BYZQ099",
+    "shares": "7297863.00",
+    "value": "33974062.83",
+    "percent": "0.91"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "ROBINHOOD MARKETS INC - A",
+    "ticker": "HOOD",
+    "cusip": "770700102",
+    "shares": "660883.00",
+    "value": "28840934.12",
+    "percent": "0.77"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "YEAHKA LTD",
+    "ticker": "9923",
+    "cusip": "BL58D39",
+    "shares": "6468000.00",
+    "value": "25126914.31",
+    "percent": "0.68"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "JSC KASPI.KZ GDR-REG S",
+    "ticker": "KSPI",
+    "cusip": "BMXZ8G7",
+    "shares": "214731.00",
+    "value": "24307549.20",
+    "percent": "0.65"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "HDFC BANK LTD-ADR",
+    "ticker": "HDB",
+    "cusip": "40415F101",
+    "shares": "241904.00",
+    "value": "18907216.64",
+    "percent": "0.51"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "DREYFUS GOVT CASH MAN INS",
+    "ticker": "",
+    "cusip": "X9USDDGCM",
+    "shares": "3388324.08",
+    "value": "3388324.08",
+    "percent": "0.09"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "ALIBABA GROUP HOLDING-SP ADR",
+    "ticker": "BABA",
+    "cusip": "01609W102",
+    "shares": "1917.00",
+    "value": "311109.93",
+    "percent": "0.01"
+  },
+  {
+    "date": "8/30/2021",
+    "company": "SOUTH AFRICAN RAND",
+    "ticker": "",
+    "cusip": "ZAR",
+    "shares": "136.75",
+    "value": "9.32",
+    "percent": "0.00"
   }
 ]

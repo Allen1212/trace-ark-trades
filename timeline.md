@@ -1,5 +1,14 @@
 # :rocket: ARK Investing Timeline
 
+9/3/2021 
+- ARKX: remove a ticker **BABA** 
+- ARKQ: remove a ticker **BABA** 
+- ARKQ: remove a ticker **XONE** 
+- ARKG: remove a ticker **SEER** 
+- ARKG: add a new ticker **SLGCW** 
+- ARKG: add a new ticker **SLGC** 
+- ARKF: remove a ticker **BABA** 
+
 8/27/2021 
 - ARKF: remove a ticker **1833** 
 

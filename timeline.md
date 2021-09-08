@@ -1,5 +1,9 @@
 # :rocket: ARK Investing Timeline
 
+9/7/2021 
+- ARKW: remove a ticker **NTDOY** 
+- ARKK: remove a ticker **MCRB** 
+
 9/3/2021 
 - ARKX: remove a ticker **BABA** 
 - ARKQ: remove a ticker **BABA** 

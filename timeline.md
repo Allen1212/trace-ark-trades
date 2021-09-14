@@ -1,5 +1,10 @@
 # :rocket: ARK Investing Timeline
 
+9/13/2021 
+- ARKG: remove a ticker **RHHBY** 
+- ARKG: remove a ticker **DRNA** 
+- ARKG: remove a ticker **PSTG** 
+
 9/9/2021 
 - ARKG: remove a ticker **SRPT** 
 - ARKF: remove a ticker **HDB** 

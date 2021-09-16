@@ -1,5 +1,9 @@
 # :rocket: ARK Investing Timeline
 
+9/15/2021 
+- ARKG: remove a ticker **PSTI** 
+- ARKF: remove a ticker **6060** 
+
 9/14/2021 
 - ARKW: remove a ticker **TTD** 
 - ARKQ: remove a ticker **NVDA** 

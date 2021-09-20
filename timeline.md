@@ -1,5 +1,15 @@
 # :rocket: ARK Investing Timeline
 
+9/17/2021 
+- ARKX: remove a ticker **ACIC** 
+- ARKX: add a new ticker **ACHR** 
+- ARKQ: remove a ticker **ACIC** 
+- ARKQ: add a new ticker **ACHR** 
+- ARKK: remove a ticker **SRNG** 
+- ARKK: add a new ticker **DNA** 
+- ARKG: remove a ticker **SRNG** 
+- ARKG: add a new ticker **DNA** 
+
 9/15/2021 
 - ARKG: remove a ticker **PSTI** 
 - ARKF: remove a ticker **6060** 

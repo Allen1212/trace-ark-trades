@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+9/22/2021 
+- ARKF: add a new ticker **TOST** 
+
 9/17/2021 
 - ARKX: remove a ticker **ACIC** 
 - ARKX: add a new ticker **ACHR** 

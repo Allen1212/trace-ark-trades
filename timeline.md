@@ -1,5 +1,12 @@
 # :rocket: ARK Investing Timeline
 
+9/30/2021 
+- ARKX: remove a ticker **SPFR** 
+- ARKX: add a new ticker **VLD** 
+- ARKQ: remove a ticker **SPFR** 
+- ARKQ: add a new ticker **VLD** 
+- ARKG: remove a ticker **BMY** 
+
 9/22/2021 
 - ARKF: add a new ticker **TOST** 
 

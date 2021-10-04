@@ -337,3 +337,4 @@ if etf_type == "ARKF"
     label.new(timestamp(2021, 9, 17), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -522,400\n Weight(%): 0.05", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2021, 9, 20), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -281,200\n Weight(%): 0.02", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2021, 9, 21), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -132,000\n Weight(%): 0.00", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2021, 10, 1), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 0\n Weight(%): 0.00", style=label.style_labeldown, color=color.red)

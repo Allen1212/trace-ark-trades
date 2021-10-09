@@ -182,6 +182,7 @@ if etf_type == "ALL"
     label.new(timestamp(2021, 10, 1), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX2", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2021, 10, 5), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX2", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2021, 10, 6), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2021, 10, 7), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
 if etf_type == "ARKF"
     label.new(timestamp(2020, 10, 20), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 20,139\n Weight(%): 1.00", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 10, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 23,016\n Weight(%): 0.99", style=label.style_labelup, color=color.green)
@@ -344,6 +345,7 @@ if etf_type == "ARKF"
     label.new(timestamp(2021, 10, 1), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -40,776\n Weight(%): 1.87", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2021, 10, 5), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -86,598\n Weight(%): 1.91", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2021, 10, 6), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -10,194\n Weight(%): 1.89", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2021, 10, 7), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -10,190\n Weight(%): 1.81", style=label.style_labeldown, color=color.red)
 if etf_type == "ARKX"
     label.new(timestamp(2021, 3, 29), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 484\n Weight(%): 2.57", style=label.style_labelup, color=color.green)
     label.new(timestamp(2021, 3, 30), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 7,018\n Weight(%): 2.50", style=label.style_labelup, color=color.green)

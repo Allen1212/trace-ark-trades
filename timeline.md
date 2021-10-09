@@ -1,5 +1,9 @@
 # :rocket: ARK Investing Timeline
 
+10/7/2021 
+- ARKK: remove a ticker **NTDOY** 
+- ARKG: remove a ticker **CRBU** 
+
 10/4/2021 
 - ARKK: remove a ticker **TER** 
 - ARKG: remove a ticker **NVS** 

@@ -237,6 +237,7 @@ if etf_type == "ALL"
     label.new(timestamp(2021, 10, 12), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX2", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2021, 10, 13), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2021, 10, 14), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2021, 10, 15), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
 if etf_type == "ARKK"
     label.new(timestamp(2020, 10, 20), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 19,728\n Weight(%): 3.34", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 10, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 2,466\n Weight(%): 3.40", style=label.style_labelup, color=color.green)
@@ -418,6 +419,7 @@ if etf_type == "ARKK"
     label.new(timestamp(2021, 10, 12), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -49,011\n Weight(%): 0.38", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2021, 10, 13), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -116,745\n Weight(%): 0.33", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2021, 10, 14), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -264,594\n Weight(%): 0.25", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2021, 10, 15), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -8,610\n Weight(%): 0.25", style=label.style_labeldown, color=color.red)
 if etf_type == "ARKQ"
     label.new(timestamp(2020, 10, 19), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 4,445\n Weight(%): 4.09", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 10, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 2,667\n Weight(%): 3.89", style=label.style_labelup, color=color.green)

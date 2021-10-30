@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+10/28/2021 
+- ARKW: add a new ticker **FB** 
+
 10/25/2021 
 - ARKX: add a new ticker **DDD** 
 - ARKF: add a new ticker **PAGS** 

@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+10/29/2021 
+- ARKG: remove a ticker **SLGCW** 
+
 10/28/2021 
 - ARKW: add a new ticker **FB** 
 

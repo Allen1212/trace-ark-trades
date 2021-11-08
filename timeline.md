@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+11/5/2021 
+- ARKX: remove a ticker **NVDA** 
+
 11/1/2021 
 - ARKG: add a new ticker **ALLO** 
 

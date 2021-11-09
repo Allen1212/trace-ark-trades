@@ -1,5 +1,9 @@
 # :rocket: ARK Investing Timeline
 
+11/8/2021 
+- ARKW: remove a ticker **KVSB** 
+- ARKW: add a new ticker **KIND** 
+
 11/5/2021 
 - ARKX: remove a ticker **NVDA** 
 

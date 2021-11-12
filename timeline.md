@@ -1,5 +1,11 @@
 # :rocket: ARK Investing Timeline
 
+11/11/2021 
+- ARKW: remove a ticker **PYPL** 
+- ARKK: remove a ticker **NSTG** 
+- ARKK: add a new ticker **DDD** 
+- ARKG: remove a ticker **NSTG** 
+
 11/8/2021 
 - ARKW: remove a ticker **KVSB** 
 - ARKW: add a new ticker **KIND** 

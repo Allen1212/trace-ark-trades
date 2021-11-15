@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+11/12/2021 
+- ARKX: add a new ticker **MYNA** 
+
 11/11/2021 
 - ARKW: remove a ticker **PYPL** 
 - ARKK: remove a ticker **NSTG** 

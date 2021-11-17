@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+11/16/2021 
+- ARKG: add a new ticker **BNR** 
+
 11/12/2021 
 - ARKX: add a new ticker **MYNA** 
 

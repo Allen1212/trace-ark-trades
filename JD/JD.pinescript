@@ -273,6 +273,7 @@ if etf_type == "ALL"
     label.new(timestamp(2021, 11, 24), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2021, 11, 26), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2021, 11, 29), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX2", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2021, 11, 30), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
 if etf_type == "ARKF"
     label.new(timestamp(2020, 10, 20), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 1,722\n Weight(%): 0.95", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 10, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 1,968\n Weight(%): 0.94", style=label.style_labelup, color=color.green)
@@ -658,6 +659,7 @@ if etf_type == "ARKQ"
     label.new(timestamp(2021, 11, 22), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -9,875\n Weight(%): 4.14", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2021, 11, 23), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -3,948\n Weight(%): 4.25", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2021, 11, 29), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -1,975\n Weight(%): 4.20", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2021, 11, 30), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -3,950\n Weight(%): 4.04", style=label.style_labeldown, color=color.red)
 if etf_type == "ARKW"
     label.new(timestamp(2020, 10, 20), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 2,064\n Weight(%): 0.97", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 10, 22), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 1,376\n Weight(%): 0.95", style=label.style_labelup, color=color.green)

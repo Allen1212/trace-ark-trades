@@ -1,5 +1,9 @@
 # :rocket: ARK Investing Timeline
 
+11/30/2021 
+- ARKK: remove a ticker **Z** 
+- ARKF: add a new ticker **TWTR** 
+
 11/22/2021 
 - ARKW: add a new ticker **MNDY** 
 

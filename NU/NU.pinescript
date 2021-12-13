@@ -3,7 +3,9 @@ study("NU-tracker", overlay=true, max_labels_count=500)
 etf_type = input("ALL", title="ETF", options=["ARKF","ARKW","ALL"])
 if etf_type == "ALL"
     label.new(timestamp(2021, 12, 9), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX2", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2021, 12, 10), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
 if etf_type == "ARKF"
     label.new(timestamp(2021, 12, 9), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 1,227,989\n Weight(%): 0.50", style=label.style_labelup, color=color.green)
 if etf_type == "ARKW"
     label.new(timestamp(2021, 12, 9), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 1,022,011\n Weight(%): 0.25", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2021, 12, 10), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -6,196\n Weight(%): 0.29", style=label.style_labeldown, color=color.red)

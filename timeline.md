@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+12/13/2021 
+- ARKW: add a new ticker **EDR** 
+
 12/9/2021 
 - ARKW: add a new ticker **NU** 
 - ARKF: add a new ticker **NU** 

@@ -1,5 +1,9 @@
 # :rocket: ARK Investing Timeline
 
+12/15/2021 
+- ARKX: remove a ticker **BA** 
+- ARKW: remove a ticker **Z** 
+
 12/14/2021 
 - ARKK: remove a ticker **PRLB** 
 - ARKF: remove a ticker **PINS** 

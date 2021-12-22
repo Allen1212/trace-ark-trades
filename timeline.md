@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+12/20/2021 
+- ARKG: add a new ticker **NRIX** 
+
 12/15/2021 
 - ARKX: remove a ticker **BA** 
 - ARKW: remove a ticker **Z** 

@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+12/30/2021 
+- ARKG: remove a ticker **ALLO** 
+
 12/27/2021 
 - ARKW: remove a ticker **FTCH** 
 - ARKW: remove a ticker **FB** 

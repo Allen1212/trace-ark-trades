@@ -1,5 +1,10 @@
 # :rocket: ARK Investing Timeline
 
+1/31/2022 
+- ARKK: add a new ticker **SE** 
+- ARKF: remove a ticker **TCEHY** 
+- ARKF: add a new ticker **GLBE** 
+
 1/18/2022 
 - ARKK: remove a ticker **DOCU** 
 

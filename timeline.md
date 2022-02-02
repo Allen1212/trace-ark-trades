@@ -1,5 +1,10 @@
 # :rocket: ARK Investing Timeline
 
+2/1/2022 
+- ARKX: remove a ticker **NFLX** 
+- ARKK: remove a ticker **IOVA** 
+- ARKF: remove a ticker **PDD** 
+
 1/31/2022 
 - ARKK: add a new ticker **SE** 
 - ARKF: remove a ticker **TCEHY** 

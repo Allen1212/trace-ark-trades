@@ -1,5 +1,11 @@
 # :rocket: ARK Investing Timeline
 
+2/3/2022 
+- ARKW: remove a ticker **DOCU** 
+- ARKK: remove a ticker **DDD** 
+- ARKK: remove a ticker **EDIT** 
+- ARKG: remove a ticker **TAK** 
+
 2/1/2022 
 - ARKX: remove a ticker **NFLX** 
 - ARKK: remove a ticker **IOVA** 

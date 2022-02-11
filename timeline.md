@@ -1,5 +1,10 @@
 # :rocket: ARK Investing Timeline
 
+2/10/2022 
+- ARKW: remove a ticker **SNAP** 
+- ARKW: remove a ticker **LPSN** 
+- ARKF: remove a ticker **SNAP** 
+
 2/8/2022 
 - ARKG: add a new ticker **ATAI** 
 

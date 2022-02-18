@@ -1,5 +1,11 @@
 # :rocket: ARK Investing Timeline
 
+2/17/2022 
+- ARKK: remove a ticker **IRDM** 
+- ARKK: remove a ticker **SKLZ** 
+- ARKK: remove a ticker **TWTR** 
+- ARKF: remove a ticker **PYPL** 
+
 2/10/2022 
 - ARKW: remove a ticker **SNAP** 
 - ARKW: remove a ticker **LPSN** 

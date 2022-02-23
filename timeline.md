@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+2/22/2022 
+- ARKX: add a new ticker **PRLB** 
+
 2/17/2022 
 - ARKK: remove a ticker **IRDM** 
 - ARKK: remove a ticker **SKLZ** 

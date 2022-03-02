@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+3/1/2022 
+- ARKW: remove a ticker **SKLZ** 
+
 2/28/2022 
 - ARKW: add a new ticker **CRWD** 
 

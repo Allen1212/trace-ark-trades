@@ -1,5 +1,12 @@
 # :rocket: ARK Investing Timeline
 
+3/8/2022 
+- ARKQ: remove a ticker **PLTR** 
+- ARKK: remove a ticker **TRMB** 
+- ARKG: remove a ticker **EVGN** 
+- ARKG: remove a ticker **AQB** 
+- ARKF: remove a ticker **OPEN** 
+
 3/4/2022 
 - ARKW: remove a ticker **ETSY** 
 

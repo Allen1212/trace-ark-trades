@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+3/9/2022 
+- ARKX: remove a ticker **PLTR** 
+
 3/8/2022 
 - ARKQ: remove a ticker **PLTR** 
 - ARKK: remove a ticker **TRMB** 

@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+3/21/2022 
+- ARKF: remove a ticker **DOCU** 
+
 3/9/2022 
 - ARKX: remove a ticker **PLTR** 
 

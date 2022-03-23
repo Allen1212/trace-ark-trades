@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+3/22/2022 
+- ARKG: remove a ticker **CLLS** 
+
 3/21/2022 
 - ARKF: remove a ticker **DOCU** 
 

@@ -340,6 +340,7 @@ if etf_type == "ALL"
     label.new(timestamp(2022, 3, 22), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2022, 3, 23), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2022, 3, 24), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX2", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2022, 3, 25), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
 if etf_type == "ARKK"
     label.new(timestamp(2020, 10, 20), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 55,424\n Weight(%): 2.06", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 10, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 6,930\n Weight(%): 2.04", style=label.style_labelup, color=color.green)
@@ -618,6 +619,7 @@ if etf_type == "ARKK"
     label.new(timestamp(2022, 3, 22), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -106,845\n Weight(%): 2.28", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2022, 3, 23), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -64,790\n Weight(%): 2.30", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2022, 3, 24), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -87,528\n Weight(%): 2.29", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2022, 3, 25), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -93,690\n Weight(%): 2.29", style=label.style_labeldown, color=color.red)
 if etf_type == "ARKW"
     label.new(timestamp(2020, 10, 20), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 15,714\n Weight(%): 2.69", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 10, 22), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 10,476\n Weight(%): 2.55", style=label.style_labelup, color=color.green)

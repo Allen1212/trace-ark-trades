@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+3/25/2022 
+- ARKQ: add a new ticker **NIO** 
+
 3/22/2022 
 - ARKG: remove a ticker **CLLS** 
 

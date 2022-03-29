@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+3/28/2022 
+- ARKQ: add a new ticker **MTTR** 
+
 3/25/2022 
 - ARKQ: add a new ticker **NIO** 
 

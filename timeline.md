@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+4/29/2022 
+- ARKF: remove a ticker **LC** 
+
 3/28/2022 
 - ARKQ: add a new ticker **MTTR** 
 

@@ -1,5 +1,13 @@
 # :rocket: ARK Investing Timeline
 
+5/5/2022 
+- ARKW: remove a ticker **DKNG** 
+- ARKW: add a new ticker **DKNG** 
+- ARKK: remove a ticker **DKNG** 
+- ARKK: add a new ticker **DKNG** 
+- ARKF: remove a ticker **DKNG** 
+- ARKF: add a new ticker **DKNG** 
+
 5/2/2022 
 - ARKW: remove a ticker **SPLK** 
 

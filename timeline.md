@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+5/9/2022 
+- ARKQ: add a new ticker **GM** 
+
 5/2/2022 
 - ARKW: remove a ticker **SPLK** 
 

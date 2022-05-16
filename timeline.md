@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+5/13/2022 
+- ARKG: remove a ticker **CSTL** 
+
 5/9/2022 
 - ARKQ: add a new ticker **GM** 
 

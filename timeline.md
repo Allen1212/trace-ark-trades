@@ -1,5 +1,10 @@
 # :rocket: ARK Investing Timeline
 
+5/27/2022 
+- ARKW: add a new ticker **NVDA** 
+- ARKK: add a new ticker **NVDA** 
+- ARKF: add a new ticker **NVDA** 
+
 5/13/2022 
 - ARKG: remove a ticker **CSTL** 
 

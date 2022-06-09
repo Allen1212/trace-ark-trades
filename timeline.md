@@ -1,5 +1,10 @@
 # :rocket: ARK Investing Timeline
 
+6/8/2022 
+- ARKQ: remove a ticker **BIDU** 
+- ARKK: remove a ticker **SE** 
+- ARKG: add a new ticker **MRNA** 
+
 6/7/2022 
 - ARKG: remove a ticker **EDIT** 
 

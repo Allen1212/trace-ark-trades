@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+6/21/2022 
+- ARKW: remove a ticker **SNOW** 
+
 6/9/2022 
 - ARKG: remove a ticker **DYNS** 
 - ARKG: add a new ticker **SNTI** 

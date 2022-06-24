@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+6/23/2022 
+- ARKW: remove a ticker **OKTA** 
+
 6/21/2022 
 - ARKW: remove a ticker **SNOW** 
 

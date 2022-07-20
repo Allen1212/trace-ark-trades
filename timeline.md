@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+7/19/2022 
+- ARKK: remove a ticker **SSYS** 
+
 7/18/2022 
 - ARKQ: remove a ticker **MTTR** 
 

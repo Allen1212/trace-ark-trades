@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+7/26/2022 
+- ARKF: add a new ticker **ROKU** 
+
 7/25/2022 
 - ARKG: add a new ticker **GH** 
 

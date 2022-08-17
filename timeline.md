@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+8/16/2022 
+- ARKX: remove a ticker **GRMNU** 
+
 8/10/2022 
 - ARKF: add a new ticker **RBLX** 
 

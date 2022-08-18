@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+8/17/2022 
+- ARKW: remove a ticker **TWTR** 
+
 8/16/2022 
 - ARKX: remove a ticker **GRMNU** 
 

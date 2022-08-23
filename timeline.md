@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+8/22/2022 
+- ARKG: add a new ticker **CMPS** 
+
 8/17/2022 
 - ARKW: remove a ticker **TWTR** 
 

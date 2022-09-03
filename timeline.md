@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+9/1/2022 
+- ARKQ: add a new ticker **NVDA** 
+
 8/22/2022 
 - ARKG: add a new ticker **CMPS** 
 

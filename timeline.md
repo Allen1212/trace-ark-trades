@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+9/9/2022 
+- ARKF: remove a ticker **TWTR** 
+
 9/1/2022 
 - ARKQ: add a new ticker **NVDA** 
 

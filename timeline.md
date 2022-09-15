@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+9/14/2022 
+- ARKG: remove a ticker **ONEM** 
+
 9/9/2022 
 - ARKF: remove a ticker **TWTR** 
 

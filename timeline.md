@@ -1,5 +1,9 @@
 # :rocket: ARK Investing Timeline
 
+9/19/2022 
+- ARKW: add a new ticker **ADBE** 
+- ARKK: add a new ticker **VERV** 
+
 9/15/2022 
 - ARKK: remove a ticker **CGEN** 
 - ARKG: remove a ticker **CGEN** 

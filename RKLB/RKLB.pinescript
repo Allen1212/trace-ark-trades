@@ -1,0 +1,9 @@
+//@version=4
+study("RKLB-tracker", overlay=true, max_labels_count=500)
+etf_type = input("ALL", title="ETF", options=["ARKQ","ARKX","ALL"])
+if etf_type == "ALL"
+    label.new(timestamp(2022, 9, 26), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX2", style=label.style_labelup, color=color.green)
+if etf_type == "ARKQ"
+    label.new(timestamp(2022, 9, 26), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 398,172\n Weight(%): 0.17", style=label.style_labelup, color=color.green)
+if etf_type == "ARKX"
+    label.new(timestamp(2022, 9, 26), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 109,495\n Weight(%): 0.17", style=label.style_labelup, color=color.green)

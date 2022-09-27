@@ -1,5 +1,10 @@
 # :rocket: ARK Investing Timeline
 
+9/26/2022 
+- ARKX: add a new ticker **RKLB** 
+- ARKQ: add a new ticker **RKLB** 
+- ARKG: add a new ticker **NVDA** 
+
 9/19/2022 
 - ARKW: add a new ticker **ADBE** 
 - ARKK: add a new ticker **VERV** 

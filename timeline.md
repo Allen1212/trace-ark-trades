@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+9/30/2022 
+- ARKK: remove a ticker **SGFY** 
+
 9/26/2022 
 - ARKX: add a new ticker **RKLB** 
 - ARKQ: add a new ticker **RKLB** 

@@ -1,5 +1,9 @@
 # :rocket: ARK Investing Timeline
 
+10/12/2022 
+- ARKW: remove a ticker **NNDM** 
+- ARKK: remove a ticker **SPOT** 
+
 10/4/2022 
 - ARKQ: remove a ticker **NNDM** 
 

@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+11/9/2022 
+- ARKK: remove a ticker **BLI** 
+
 10/27/2022 
 - ARKW: remove a ticker **SE** 
 

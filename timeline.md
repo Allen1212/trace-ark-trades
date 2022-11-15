@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+11/14/2022 
+- ARKX: add a new ticker **SSYS** 
+
 11/9/2022 
 - ARKK: remove a ticker **BLI** 
 

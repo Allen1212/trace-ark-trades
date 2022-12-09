@@ -1,5 +1,10 @@
 # :rocket: ARK Investing Timeline
 
+12/8/2022 
+- ARKW: remove a ticker **SPOT** 
+- ARKK: remove a ticker **TSP** 
+- ARKG: remove a ticker **SGFY** 
+
 11/15/2022 
 - ARKF: remove a ticker **SE** 
 

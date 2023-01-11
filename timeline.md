@@ -1,5 +1,9 @@
 # :rocket: ARK Investing Timeline
 
+1/10/2023 
+- ARKK: remove a ticker **FATE** 
+- ARKK: remove a ticker **NVDA** 
+
 12/8/2022 
 - ARKW: remove a ticker **SPOT** 
 - ARKK: remove a ticker **TSP** 

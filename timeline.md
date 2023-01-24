@@ -1,5 +1,9 @@
 # :rocket: ARK Investing Timeline
 
+1/23/2023 
+- ARKG: remove a ticker **FATE** 
+- ARKF: remove a ticker **SI** 
+
 1/12/2023 
 - ARKQ: remove a ticker **TSP** 
 

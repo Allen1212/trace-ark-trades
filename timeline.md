@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+1/25/2023 
+- ARKF: add a new ticker **PINS** 
+
 1/23/2023 
 - ARKG: remove a ticker **FATE** 
 - ARKF: remove a ticker **SI** 

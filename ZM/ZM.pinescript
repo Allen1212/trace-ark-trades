@@ -572,6 +572,7 @@ if etf_type == "ALL"
     label.new(timestamp(2023, 2, 1), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
     label.new(timestamp(2023, 2, 2), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX2", style=label.style_labelup, color=color.green)
     label.new(timestamp(2023, 2, 3), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX2", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2023, 2, 6), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
 if etf_type == "ARKK"
     label.new(timestamp(2020, 10, 20), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 1,536\n Weight(%): 1.02", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 10, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 192\n Weight(%): 1.00", style=label.style_labelup, color=color.green)
@@ -1129,6 +1130,7 @@ if etf_type == "ARKK"
     label.new(timestamp(2023, 2, 1), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 2,204\n Weight(%): 8.26", style=label.style_labelup, color=color.green)
     label.new(timestamp(2023, 2, 2), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 52,896\n Weight(%): 8.22", style=label.style_labelup, color=color.green)
     label.new(timestamp(2023, 2, 3), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -121,220\n Weight(%): 8.18", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2023, 2, 6), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -112,404\n Weight(%): 8.03", style=label.style_labeldown, color=color.red)
 if etf_type == "ARKW"
     label.new(timestamp(2020, 10, 20), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 324\n Weight(%): 0.99", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 10, 22), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 216\n Weight(%): 0.96", style=label.style_labelup, color=color.green)

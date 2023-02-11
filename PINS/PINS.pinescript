@@ -249,6 +249,7 @@ if etf_type == "ALL"
     label.new(timestamp(2023, 2, 6), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
     label.new(timestamp(2023, 2, 7), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2023, 2, 8), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2023, 2, 9), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
 if etf_type == "ARKF"
     label.new(timestamp(2020, 10, 20), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 14,168\n Weight(%): 4.28", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 10, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 16,192\n Weight(%): 4.64", style=label.style_labelup, color=color.green)
@@ -436,6 +437,7 @@ if etf_type == "ARKF"
     label.new(timestamp(2023, 2, 6), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 3,024\n Weight(%): 0.96", style=label.style_labelup, color=color.green)
     label.new(timestamp(2023, 2, 7), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -672\n Weight(%): 0.91", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2023, 2, 8), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 1,680\n Weight(%): 0.91", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2023, 2, 9), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 1,344\n Weight(%): 0.91", style=label.style_labelup, color=color.green)
 if etf_type == "ARKK"
     label.new(timestamp(2020, 10, 20), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 21,216\n Weight(%): 1.19", style=label.style_labelup, color=color.green)
     label.new(timestamp(2020, 10, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 2,652\n Weight(%): 1.33", style=label.style_labelup, color=color.green)

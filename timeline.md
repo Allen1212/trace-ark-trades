@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+2/21/2023 
+- ARKW: add a new ticker **AMD** 
+
 2/2/2023 
 - ARKQ: remove a ticker **NIO** 
 

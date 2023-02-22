@@ -1,9 +1,12 @@
 //@version=4
 study("AMD-tracker", overlay=true, max_labels_count=500)
-etf_type = input("ALL", title="ETF", options=["ALL"])
+etf_type = input("ALL", title="ETF", options=["ARKW","ALL"])
 if etf_type == "ALL"
     label.new(timestamp(2019, 12, 2), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2019, 12, 9), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 1, 13), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 1, 27), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2020, 2, 28), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX2", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2023, 2, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+if etf_type == "ARKW"
+    label.new(timestamp(2023, 2, 21), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 72,848\n Weight(%): 0.46", style=label.style_labelup, color=color.green)

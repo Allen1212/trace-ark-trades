@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+3/1/2023 
+- ARKW: remove a ticker **ADBE** 
+
 2/21/2023 
 - ARKW: add a new ticker **AMD** 
 

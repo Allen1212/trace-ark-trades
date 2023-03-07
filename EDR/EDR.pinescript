@@ -175,6 +175,7 @@ if etf_type == "ALL"
     label.new(timestamp(2023, 2, 23), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
     label.new(timestamp(2023, 2, 27), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
     label.new(timestamp(2023, 3, 1), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2023, 3, 6), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
 if etf_type == "ARKW"
     label.new(timestamp(2021, 12, 13), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 139,148\n Weight(%): 0.10", style=label.style_labelup, color=color.green)
     label.new(timestamp(2021, 12, 14), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 178,099\n Weight(%): 0.24", style=label.style_labelup, color=color.green)
@@ -349,3 +350,4 @@ if etf_type == "ARKW"
     label.new(timestamp(2023, 2, 23), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 3,081\n Weight(%): 0.91", style=label.style_labelup, color=color.green)
     label.new(timestamp(2023, 2, 27), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 1,029\n Weight(%): 0.92", style=label.style_labelup, color=color.green)
     label.new(timestamp(2023, 3, 1), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 1,030\n Weight(%): 0.92", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2023, 3, 6), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 1,029\n Weight(%): 0.95", style=label.style_labelup, color=color.green)

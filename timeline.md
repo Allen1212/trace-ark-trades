@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+3/6/2023 
+- ARKK: remove a ticker **MTLS** 
+
 3/1/2023 
 - ARKW: remove a ticker **ADBE** 
 

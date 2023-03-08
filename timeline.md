@@ -1,5 +1,10 @@
 # :rocket: ARK Investing Timeline
 
+3/7/2023 
+- ARKX: remove a ticker **PRLB** 
+- ARKQ: remove a ticker **ONVO** 
+- ARKQ: remove a ticker **PRLB** 
+
 3/6/2023 
 - ARKK: remove a ticker **MTLS** 
 

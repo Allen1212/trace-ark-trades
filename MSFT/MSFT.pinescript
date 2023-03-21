@@ -1,5 +1,8 @@
 //@version=4
 study("MSFT-tracker", overlay=true, max_labels_count=500)
-etf_type = input("ALL", title="ETF", options=["ALL"])
+etf_type = input("ALL", title="ETF", options=["ARKW","ALL"])
 if etf_type == "ALL"
     label.new(timestamp(2020, 1, 17), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2023, 3, 20), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+if etf_type == "ARKW"
+    label.new(timestamp(2023, 3, 20), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 40,957\n Weight(%): 0.90", style=label.style_labelup, color=color.green)

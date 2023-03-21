@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+3/20/2023 
+- ARKW: add a new ticker **MSFT** 
+
 3/16/2023 
 - ARKW: remove a ticker **MNDY** 
 

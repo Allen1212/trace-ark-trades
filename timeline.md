@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+3/27/2023 
+- ARKQ: add a new ticker **JOBY** 
+
 3/20/2023 
 - ARKW: add a new ticker **MSFT** 
 

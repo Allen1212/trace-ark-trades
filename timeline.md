@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+4/3/2023 
+- ARKG: remove a ticker **ATAI** 
+
 3/27/2023 
 - ARKQ: add a new ticker **JOBY** 
 

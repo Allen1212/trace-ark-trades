@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+4/4/2023 
+- ARKF: remove a ticker **FTCH** 
+
 4/3/2023 
 - ARKG: remove a ticker **ATAI** 
 

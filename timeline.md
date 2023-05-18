@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+5/17/2023 
+- ARKF: add a new ticker **PLTR** 
+
 5/10/2023 
 - ARKW: add a new ticker **PLTR** 
 - ARKK: add a new ticker **PLTR** 

@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+6/1/2023 
+- ARKF: add a new ticker **CRWD** 
+
 5/17/2023 
 - ARKF: add a new ticker **PLTR** 
 

@@ -1,5 +1,13 @@
 # :rocket: ARK Investing Timeline
 
+6/12/2023 
+- ARKW: add a new ticker **PSTG** 
+- ARKW: add a new ticker **TTD** 
+- ARKW: add a new ticker **META** 
+- ARKQ: add a new ticker **TSM** 
+- ARKK: add a new ticker **TER** 
+- ARKK: add a new ticker **META** 
+
 6/1/2023 
 - ARKF: add a new ticker **CRWD** 
 

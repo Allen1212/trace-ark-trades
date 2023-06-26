@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+6/23/2023 
+- ARKF: add a new ticker **SOFI** 
+
 6/12/2023 
 - ARKW: add a new ticker **PSTG** 
 - ARKW: add a new ticker **TTD** 

@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+7/12/2023 
+- ARKQ: add a new ticker **CCJ** 
+
 7/3/2023 
 - ARKX: remove a ticker **GRMN** 
 - ARKX: remove a ticker **BLDE** 

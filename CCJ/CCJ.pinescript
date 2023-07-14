@@ -3,5 +3,7 @@ study("CCJ-tracker", overlay=true, max_labels_count=500)
 etf_type = input("ALL", title="ETF", options=["ARKQ","ALL"])
 if etf_type == "ALL"
     label.new(timestamp(2023, 7, 12), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2023, 7, 13), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX1", style=label.style_labelup, color=color.green)
 if etf_type == "ARKQ"
     label.new(timestamp(2023, 7, 12), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 179,000\n Weight(%): 0.50", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2023, 7, 13), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 461\n Weight(%): 0.50", style=label.style_labelup, color=color.green)

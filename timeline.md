@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+7/14/2023 
+- ARKF: add a new ticker **AVDX** 
+
 7/12/2023 
 - ARKQ: add a new ticker **CCJ** 
 

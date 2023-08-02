@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+8/1/2023 
+- ARKG: remove a ticker **SURF** 
+
 7/25/2023 
 - ARKW: add a new ticker **SPOT** 
 

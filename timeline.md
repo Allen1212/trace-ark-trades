@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+8/14/2023 
+- ARKG: remove a ticker **IOVA** 
+
 8/11/2023 
 - ARKK: add a new ticker **ACHR** 
 

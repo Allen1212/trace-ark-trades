@@ -1,5 +1,31 @@
 # :rocket: ARK Investing Timeline
 
+8/25/2023 
+- ARKX: remove a ticker **GRMN** 
+- ARKX: remove a ticker **BLDE** 
+- ARKX: remove a ticker **AMZN** 
+- ARKX: remove a ticker **AVAV** 
+- ARKX: add a new ticker **GRMN** 
+- ARKX: add a new ticker **BLDE** 
+- ARKX: add a new ticker **AMZN** 
+- ARKX: add a new ticker **AVAV** 
+- ARKW: remove a ticker **AMD** 
+- ARKW: add a new ticker **AMD** 
+- ARKQ: remove a ticker **AMD** 
+- ARKQ: remove a ticker **BLDE** 
+- ARKQ: remove a ticker **AVAV** 
+- ARKQ: add a new ticker **AMD** 
+- ARKQ: add a new ticker **BLDE** 
+- ARKQ: add a new ticker **AVAV** 
+- ARKG: remove a ticker **BLI** 
+- ARKG: remove a ticker **ACCD** 
+- ARKG: add a new ticker **BLI** 
+- ARKG: add a new ticker **ACCD** 
+- ARKF: remove a ticker **TCS** 
+- ARKF: remove a ticker **BILL** 
+- ARKF: add a new ticker **TCS** 
+- ARKF: add a new ticker **BILL** 
+
 8/14/2023 
 - ARKG: remove a ticker **IOVA** 
 

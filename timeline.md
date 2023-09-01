@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+8/31/2023 
+- ARKG: remove a ticker **CDXS** 
+
 8/28/2023 
 - ARKX: remove a ticker **GRMN** 
 - ARKX: remove a ticker **BLDE** 

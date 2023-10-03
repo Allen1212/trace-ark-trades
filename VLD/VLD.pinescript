@@ -238,6 +238,7 @@ if etf_type == "ALL"
     label.new(timestamp(2023, 9, 21), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2023, 9, 27), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\nX2", style=label.style_labelup, color=color.green)
     label.new(timestamp(2023, 9, 29), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
+    label.new(timestamp(2023, 10, 2), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\nX1", style=label.style_labeldown, color=color.red)
 if etf_type == "ARKQ"
     label.new(timestamp(2021, 9, 30), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 3,176,091\n Weight(%): 1.07", style=label.style_labelup, color=color.green)
     label.new(timestamp(2021, 10, 1), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -4,970\n Weight(%): 1.01", style=label.style_labeldown, color=color.red)
@@ -445,6 +446,7 @@ if etf_type == "ARKQ"
     label.new(timestamp(2023, 9, 20), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -18,028\n Weight(%): 1.00", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2023, 9, 21), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -18,029\n Weight(%): 1.00", style=label.style_labeldown, color=color.red)
     label.new(timestamp(2023, 9, 27), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 1,262,010\n Weight(%): 0.95", style=label.style_labelup, color=color.green)
+    label.new(timestamp(2023, 10, 2), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: -42,742\n Weight(%): 1.33", style=label.style_labeldown, color=color.red)
 if etf_type == "ARKX"
     label.new(timestamp(2021, 9, 30), na, xloc=xloc.bar_time, yloc=yloc.belowbar, text="Buy\n Shares: 781,835\n Weight(%): 1.21", style=label.style_labelup, color=color.green)
     label.new(timestamp(2021, 10, 1), na, xloc=xloc.bar_time, yloc=yloc.abovebar, text="Sell\n Shares: 0\n Weight(%): 1.14", style=label.style_labeldown, color=color.red)

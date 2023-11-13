@@ -1,5 +1,10 @@
 # :rocket: ARK Investing Timeline
 
+11/10/2023 
+- ARKW: add a new ticker **TOST** 
+- ARKK: add a new ticker **RXRX** 
+- ARKK: add a new ticker **TTD** 
+
 11/9/2023 
 - ARKQ: remove a ticker **GM** 
 

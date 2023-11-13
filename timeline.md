@@ -1,5 +1,8 @@
 # :rocket: ARK Investing Timeline
 
+11/9/2023 
+- ARKQ: remove a ticker **GM** 
+
 9/14/2023 
 - ARKF: remove a ticker **JD** 
 
